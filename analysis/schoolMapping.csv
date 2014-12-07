@@ -1,0 +1,2298 @@
+common name,original name,
+cod,cod,3
+coe,coe,3
+florida international,fiu,21
+iup,iup,3
+lsu,lsu,3
+mit,mit,3
+mit,MIT (MA),3
+northern illinois,niu,17
+rpi,rpi,3
+tcu,tcu,3
+uab,uab,3
+ucf,ucf,3
+usc,usc,3
+usf,usf,3
+vmi,vmi,3
+alma,alma,4
+alma,Alma (MI),4
+army,army,4
+duke,duke,4
+elon,elon,4
+enmu,enmu,4
+etsu,etsu,4
+grcc,grcc,4
+hope,hope,4
+iona,iona,4
+iowa,iowa,4
+kean,kean,4
+kean,Kean (NJ),4
+lane,lane,4
+mary,mary,4
+naps,naps,4
+navy,navy,4
+nccu,nccu,4
+ohio,ohio,4
+pace,pace,4
+penn,penn,4
+rice,rice,4
+shaw,shaw,4
+tcnj,tcnj,4
+troy,troy,4
+ucla,ucla,4
+unlv,unlv,4
+utah,utah,4
+utep,utep,4
+utsa,utsa,4
+yale,yale,4
+yale,Yale (CT),4
+akron,akron,5
+akron,Akron (OH),5
+avila,avila,5
+baker,baker,5
+bates,bates,5
+berea,berea,5
+blinn,blinn,5
+brown,brown,5
+colby,colby,5
+doane,doane,5
+dordt,dordt,5
+drake,drake,5
+hiram,hiram,5
+hiram,Hiram (OH),5
+idaho,idaho,5
+lamar,lamar,5
+maine,maine,5
+menlo,menlo,5
+miami,miami,5
+miles,miles,5
+rayne,rayne,5
+ripon,ripon,5
+rowan,rowan,5
+salem,salem,5
+tabor,tabor,5
+tampa,tampa,5
+texas,texas,5
+tufts,tufts,5
+tulsa,tulsa,5
+uconn,uconn,5
+umass,umass,5
+union,union,5
+utica,utica,5
+walsh,walsh,5
+adrian,adrian,6
+adrian,Adrian (MI),6
+albany,albany,6
+albion,albion,6
+albion,Albion (MI),6
+albion,albion college,6
+auburn,auburn,6
+austin,austin,6
+bacone,bacone,6
+baylor,baylor,6
+baylor,Baylor (TX),6
+becker,becker,6
+bethel,bethel,6
+boston,boston,6
+bryant,bryant,6
+burton,burton,6
+butler,butler,6
+butler,Butler (IN),6
+coe ia,Coe (IA),6
+dayton,dayton,6
+depauw,depauw,6
+depauw,DePauw (IN),6
+eureka,eureka,6
+eureka,Eureka (IL),6
+furman,furman,6
+furman,Furman (SC),6
+geneva,geneva,6
+hawaii,hawaii,6
+hobart,hobart,6
+howard,howard,6
+hughes,hughes,6
+husson,husson,6
+ithaca,ithaca,6
+kansas,kansas,6
+keller,keller,6
+lehigh,lehigh,6
+luther,luther,6
+luther,Luther (IA),6
+malone,malone,6
+malone,Malone (OH),6
+marian,marian,6
+marist,marist,6
+marist,Marist (NY),6
+mercer,mercer,6
+nevada,nevada,6
+oregon,oregon,6
+ottawa,ottawa,6
+png hs,png hs,6
+pomona,pomona,6
+purdue,purdue,6
+quincy,quincy,6
+ramapo,ramapo,6
+rhodes,rhodes,6
+rhodes,Rhodes (TN),6
+taylor,taylor,6
+temple,temple,6
+temple,Temple (PA),6
+tiffin,tiffin,6
+toledo,toledo,6
+toledo,Toledo (OH),6
+towson,towson,6
+tulane,tulane,6
+tulane,Tulane (LA),6
+urbana,urbana,6
+wabash,wabash,6
+wagner,wagner,6
+wilkes,wilkes,6
+wilkes,Wilkes (PA),6
+xavier,xavier,6
+abilene,abilene,7
+abilene,abilene christian,7
+abilene,Abilene Christian (TX),7
+abilene,abilene christian wildcats,7
+alabama,alabama,7
+alma hs,alma hs,7
+amherst,amherst,7
+amherst,Amherst (MA),7
+arizona,arizona,7
+army ny,Army (NY),7
+ashland,ashland,7
+ashland,Ashland (OH),7
+bethany,bethany,7
+brevard,brevard,7
+buffalo,buffalo,7
+cameron,cameron,7
+capital,capital,7
+carroll,carroll,7
+catawba,catawba,7
+cheyney,cheyney,7
+chicago,chicago,7
+chicago,Chicago (IL),7
+citadel,citadel,7
+citadel,Citadel (SC),7
+clarion,clarion,7
+clarion,Clarion (PA),7
+clemson,clemson,7
+clemson,Clemson (SC),7
+colgate,colgate,7
+colgate,Colgate (NY),7
+concord,concord,7
+concord,Concord (WV),7
+cornell,cornell,7
+denison,denison,7
+dubuque,dubuque,7
+duke,Duke (NC),4
+earlham,earlham,7
+elon,Elon (NC),4
+enka hs,enka hs,7
+fife hs,fife hs,7
+findlay,findlay,7
+findlay,Findlay (OH),7
+florida,florida,7
+fordham,fordham,7
+fordham,Fordham (NY),7
+friends,friends,7
+friends,Friends (KS),7
+gaither,gaither,7
+georgia,georgia,7
+hampton,hampton,7
+hampton,Hampton (VA),7
+harvard,harvard,7
+hofstra,hofstra,7
+hofstra,Hofstra (NY),7
+hope mi,Hope (MI),7
+houston,houston,7
+indiana,indiana,7
+iona ny,Iona (NY),7
+juniata,juniata,7
+knox il,Knox (IL),7
+lambuth,lambuth,7
+lane tn,Lane (TN),7
+liberty,liberty,7
+mary nd,Mary (ND),7
+mcmurry,mcmurry,7
+mcmurry,McMurry (TX),7
+mesa hs,mesa hs,7
+montana,montana,7
+navarro,navarro,7
+navy,Navy (MD),4
+norwich,norwich,7
+norwich,Norwich (VT),7
+oberlin,oberlin,7
+oberlin,Oberlin (OH),7
+pace ny,Pace (NY),7
+pacific,pacific,7
+palomar,palomar,7
+parsons,parsons,7
+parsons,Parsons (IA),7
+poca hs,poca hs,7
+reno hs,reno hs,7
+rice tx,Rice (TX),7
+rocbull,rocbull,7
+rutgers,rutgers,7
+rutgers,Rutgers (NJ),7
+samford,samford,7
+sewanee,sewanee,7
+shaw nc,Shaw (NC),7
+shorter,shorter,7
+stetson,stetson,7
+stetson,Stetson (FL),7
+troy al,Troy (AL),7
+waco hs,waco hs,7
+waldorf,waldorf,7
+wheaton,wheaton,7
+wheaton,Wheaton (IL),7
+widener,widener,7
+wingate,wingate,7
+wingate,Wingate (NC),7
+wofford,wofford,7
+wofford,Wofford (SC),7
+wooster,wooster,7
+wooster,Wooster (OH),7
+wyoming,wyoming,7
+akins hs,akins hs,8
+albright,albright,8
+albright,Albright (PA),8
+alice hs,alice hs,8
+aloha hs,aloha hs,8
+anderson,anderson,8
+arkansas,arkansas,8
+avila mo,Avila (MO),8
+baker ks,Baker (KS),8
+banks hs,banks hs,8
+barbe hs,barbe hs,8
+bates me,Bates (ME),8
+bc lions,bc lions,8
+belhaven,belhaven,8
+blinn jc,blinn jc,8
+brown ri,Brown (RI),8
+bucknell,bucknell,8
+bucknell,Bucknell (PA),8
+cal poly,cal poly,8
+campbell,campbell,8
+carthage,carthage,8
+carthage,Carthage (WI),8
+catholic,catholic,8
+colby me,Colby (ME),8
+colorado,colorado,8
+columbia,columbia,8
+crown mn,Crown (MN),8
+curry ma,Curry (MA),8
+davidson,davidson,8
+delaware,delaware,8
+doane ne,Doane (NE),8
+drake ia,Drake (IA),8
+duquesne,duquesne,8
+eaton hs,eaton hs,8
+elder hs,elder hs,8
+elgin hs,elgin hs,8
+fairmont,fairmont,8
+faulkner,faulkner,8
+franklin,franklin,8
+gibbs hs,gibbs hs,8
+giles hs,giles hs,8
+guilford,guilford,8
+guilford,Guilford (NC),8
+hamilton,hamilton,8
+hamilton,Hamilton (NY),8
+hartwick,hartwick,8
+hartwick,Hartwick (NY),8
+hastings,hastings,8
+illinois,illinois,8
+indio hs,indio hs,8
+iowa st.,Iowa St.,8
+kentucky,kentucky,8
+kutztown,kutztown,8
+kutztown,Kutztown (PA),8
+la salle,la salle,8
+la verne,la verne,8
+la verne,La Verne (CA),8
+lagrange,lagrange,8
+lamar tx,Lamar (TX),8
+langston,langston,8
+langston,Langston (OK),8
+llano hs,llano hs,8
+logan hs,logan hs,8
+loras ia,Loras (IA),8
+lycoming,lycoming,8
+lycoming,Lycoming (PA),8
+marietta,marietta,8
+marietta,Marietta (OH),8
+marshall,marshall,8
+marshall,Marshall (WV),8
+maryland,maryland,8
+masuk hs,masuk hs,8
+mckinney,mckinney,8
+menlo ca,Menlo (CA),8
+miami fl,Miami (FL),8
+miami oh,Miami (OH),8
+miami hs,miami hs,8
+miami oh,miami oh,8
+michigan,michigan,8
+miles al,Miles (AL),8
+millsaps,millsaps,8
+millsaps,Millsaps (MS),8
+minor hs,minor hs,8
+missouri,missouri,8
+monmouth,monmouth,8
+nc state,nc state,8
+nebraska,nebraska,8
+newberry,newberry,8
+ohio st.,Ohio St.,8
+oklahoma,oklahoma,8
+ole miss,ole miss,8
+ooltewah,ooltewah,8
+penn st.,Penn St.,8
+point ga,Point (GA),8
+redlands,redlands,8
+redlands,Redlands (CA),8
+richmond,richmond,8
+ripon wi,Ripon (WI),8
+rockwall,rockwall,8
+rolla hs,rolla hs,8
+rowan nj,Rowan (NJ),8
+salem hs,salem hs,8
+shepherd,shepherd,8
+siena ny,Siena (NY),8
+southern,southern,8
+spiro hs,spiro hs,8
+stanford,stanford,8
+stanford,Stanford (CA),8
+sterling,sterling,8
+stillman,stillman,8
+syracuse,syracuse,8
+tabor ks,Tabor (KS),8
+texas hs,texas hs,8
+thiel pa,Thiel (PA),8
+trine in,Trine (IN),8
+tufts ma,Tufts (MA),8
+tulsa ok,Tulsa (OK),8
+tusculum,tusculum,8
+tusculum,Tusculum (TN),8
+tuskegee,tuskegee,8
+uc davis,uc davis,8
+union ky,Union (KY),8
+union ny,Union (NY),8
+union hs,union hs,8
+usc - lb,usc - lb,8
+utah st.,Utah St.,8
+utica ny,Utica (NY),8
+virginia,virginia,8
+walsh oh,Walsh (OH),8
+washburn,washburn,8
+washburn,Washburn (KS),8
+wesleyan,wesleyan,8
+wesleyan,Wesleyan (CT),8
+whittier,whittier,8
+whittier,Whittier (CA),8
+williams,williams,8
+williams,Williams (MA),8
+xenia hs,xenia hs,8
+air force,air force,9
+air force,Air Force (CO),9
+alfred ny,Alfred (NY),9
+allegheny,allegheny,9
+allegheny,Allegheny (PA),9
+angola hs,angola hs,9
+apollo hs,apollo hs,9
+auburn,Auburn (AL),6
+auburn hs,auburn hs,9
+augustana,augustana,9
+aurora il,Aurora (IL),9
+austin tx,Austin (TX),9
+ave maria,ave maria,9
+bacone ok,Bacone (OK),9
+bangor hs,bangor hs,9
+beloit wi,Beloit (WI),9
+belton hs,belton hs,9
+bethel ks,Bethel (KS),9
+bethel mn,Bethel (MN),9
+bethel tn,Bethel (TN),9
+borger hs,borger hs,9
+boston ma,Boston (MA),9
+bryant ri,Bryant (RI),9
+butler cc,butler cc,9
+canyon hs,canyon hs,9
+case tech,case tech,9
+centre ky,Centre (KY),9
+charlotte,charlotte,9
+chowan nc,Chowan (NC),9
+citrus jc,citrus jc,9
+coffee hs,coffee hs,9
+colton hs,colton hs,9
+concordia,concordia,9
+consol hs,consol hs,9
+copley hs,copley hs,9
+dartmouth,dartmouth,9
+dartmouth,Dartmouth (NH),9
+dayton oh,Dayton (OH),9
+del valle,del valle,9
+denver co,Denver (CO),9
+dickinson,dickinson,9
+dickinson,Dickinson (PA),9
+dothan hs,dothan hs,9
+el camino,el camino,9
+elyria hs,elyria hs,9
+etowah hs,etowah hs,9
+fairfield,fairfield,9
+ferrum va,Ferrum (VA),9
+galion hs,galion hs,9
+gannon pa,Gannon (PA),9
+geneva pa,Geneva (PA),9
+goshen hs,goshen hs,9
+graceland,graceland,9
+graceland,Graceland (IA),9
+grambling,grambling,9
+grundy hs,grundy hs,9
+hamlin hs,hamlin hs,9
+helena hs,helena hs,9
+hillsboro,hillsboro,9
+hobart ny,Hobart (NY),9
+howard dc,Howard (DC),9
+ingleside,ingleside,9
+ithaca ny,Ithaca (NY),9
+jamestown,jamestown,9
+jesuit hs,jesuit hs,9
+judson hs,judson hs,9
+kalamazoo,kalamazoo,9
+kenyon oh,Kenyon (OH),9
+king's pa,King's (PA),9
+l.a. rams,l.a. rams,9
+lafayette,lafayette,9
+leesmcrae,leesmcrae,9
+lehigh pa,Lehigh (PA),9
+loyola la,Loyola (LA),9
+ludlow hs,ludlow hs,9
+marian hs,marian hs,9
+mars hill,mars hill,9
+mars hill,Mars Hill (NC),9
+mccook jc,mccook jc,9
+mckendree,mckendree,9
+mckendree,McKendree (IL),9
+mcpherson,mcpherson,9
+mcpherson,McPherson (KS),9
+mentor hs,mentor hs,9
+mercer ga,Mercer (GA),9
+methodist,methodist,9
+miller hs,miller hs,9
+milton hs,milton hs,9
+minnesota,minnesota,9
+moline hs,moline hs,9
+morehouse,morehouse,9
+morehouse,Morehouse (GA),9
+morton hs,morton hs,9
+mount ida,mount ida,9
+muskingum,muskingum,9
+new haven,new haven,9
+newark hs,newark hs,9
+odessa hs,odessa hs,9
+olivet mi,Olivet (MI),9
+ottawa ks,Ottawa (KS),9
+otterbein,otterbein,9
+otterbein,Otterbein (OH),9
+owosso hs,owosso hs,9
+pelham hs,pelham hs,9
+pikeville,pikeville,9
+princeton,princeton,9
+princeton,Princeton (NJ),9
+purdue,Purdue (IN),6
+queens ny,Queens (NY),9
+quincy il,Quincy (IL),9
+rochester,rochester,9
+rogers hs,rogers hs,9
+salisbury,salisbury,9
+san diego,san diego,9
+seabreeze,seabreeze,9
+seguin hs,seguin hs,9
+sehome hs,sehome hs,9
+sierra jc,sierra jc,9
+southlake,southlake,9
+tampa bay,tampa bay,9
+taylor in,Taylor (IN),9
+tennessee,tennessee,9
+texas a&i,texas a&i,9
+texas a&m,texas a&m,9
+texas a&m,Texas A&M;,9
+texas st.,Texas St.,9
+tiffin oh,Tiffin (OH),9
+towson md,Towson (MD),9
+tri-state,tri-state,9
+triton jc,triton jc,9
+tulare hs,tulare hs,9
+unlv - dl,unlv - dl,9
+unlv - ga,unlv - ga,9
+urbana oh,Urbana (OH),9
+ut martin,ut martin,9
+utah,utah utes,4
+valley hs,valley hs,9
+villanova,villanova,9
+villanova,Villanova (PA),9
+vinton hs,vinton hs,9
+wabash in,Wabash (IN),9
+wagner ny,Wagner (NY),9
+walker hs,walker hs,9
+waller hs,waller hs,9
+warner fl,Warner (FL),9
+wesley de,Wesley (DE),9
+whitworth,whitworth,9
+willis hs,willis hs,9
+wisconsin,wisconsin,9
+abilene hs,abilene hs,10
+adelphi ny,Adelphi (NY),10
+airline hs,airline hs,10
+albert lea,albert lea,10
+albert lea,Albert Lea (MN),10
+allen h.s.,allen h.s.,10
+altus h.s.,altus h.s.,10
+andrean hs,andrean hs,10
+andrews hs,andrews hs,10
+assumption,assumption,10
+assumption,Assumption (MA),10
+averett va,Averett (VA),10
+ball st.,ball state,8
+bentley ma,Bentley (MA),10
+bethany ks,Bethany (KS),10
+bethany wv,Bethany (WV),10
+boonton hs,boonton hs,10
+boulder hs,boulder hs,10
+bowdoin me,bowdoin,10
+bowdoin me,Bowdoin (ME),10
+brandon hs,brandon hs,10
+buffalo ny,Buffalo (NY),10
+c. w. post,c. w. post,10
+california,california,10
+cameron ok,Cameron (OK),10
+capital oh,Capital (OH),10
+carroll mt,Carroll (MT),10
+carroll wi,Carroll (WI),10
+carrollton,carrollton,10
+catawba nc,Catawba (NC),10
+central ia,Central (IA),10
+chapman ca,Chapman (CA),10
+charleston,charleston,10
+cheyney pa,Cheyney (PA),10
+cincinnati,cincinnati,10
+cincinnati,Cincinnati (OH),10
+coahoma cc,coahoma cc,10
+coahoma hs,coahoma hs,10
+cordova hs,cordova hs,10
+cornell,Cornell (NY),7
+corunna hs,corunna hs,10
+crowley hs,crowley hs,10
+denison oh,Denison (OH),10
+detroit mi,Detroit (MI),10
+dubuque ia,Dubuque (IA),10
+earlham in,Earlham (IN),10
+eastern hs,eastern hs,10
+emerson hs,emerson hs,10
+erwin h.s.,erwin h.s.,10
+evangel mo,Evangel (MO),10
+everett hs,everett hs,10
+fairfax hs,fairfax hs,10
+forbush hs,forbush hs,10
+fordyce hs,fordyce hs,10
+fork union,fork union,10
+gaffney hs,gaffney hs,10
+ganesha hs,ganesha hs,10
+garland hs,garland hs,10
+gavilan jc,gavilan jc,10
+georgetown,georgetown,10
+gettysburg,gettysburg,10
+gettysburg,Gettysburg (PA),10
+gonzaga wa,Gonzaga (WA),10
+grand view,grand view,10
+granite hs,granite hs,10
+greensboro,greensboro,10
+greensboro,Greensboro (NC),10
+greenville,greenville,10
+hamline mn,Hamline (MN),10
+hanover in,hanover,10
+hanover in,Hanover (IN),10
+harding ar,Harding (AR),10
+harvard ma,Harvard (MA),10
+haslett hs,haslett hs,10
+heidelberg,heidelberg,10
+heidelberg,Heidelberg (OH),10
+hendrix ar,Hendrix (AR),10
+hibbing cc,hibbing cc,10
+holy cross,holy cross,10
+houston,Houston (TX),7
+houston hs,houston hs,10
+idaho,idaho - dl,5
+indiana pa,Indiana (PA),10
+iowa st.,iowa state,8
+juniata pa,Juniata (PA),10
+kansas st.,Kansas St.,10
+keanramapo,keanramapo,10
+kearney hs,kearney hs,10
+kent state,kent state,10
+kilgore hs,kilgore hs,10
+kilgore jc,kilgore jc,10
+lambuth tn,Lambuth (TN),10
+langdon hs,langdon hs,10
+liberty va,Liberty (VA),10
+liberty hs,liberty hs,10
+lincoln mo,Lincoln (MO),10
+lincoln pa,Lincoln (PA),10
+lindenwood,lindenwood,10
+lindenwood,Lindenwood (MO),10
+lindenwood,Lindenwood-Belleville (IL),10
+livingston,livingston,10
+louisville,louisville,10
+louisville,Louisville (KY),10
+lsu tigers,lsu tigers,10
+lubbock hs,lubbock hs,10
+luverne hs,luverne hs,10
+macalester,macalester,10
+madison hs,madison hs,10
+madonna hs,madonna hs,10
+manatee hs,manatee hs,10
+manchester,manchester,10
+manchester,Manchester (IN),10
+marshfield,marshfield,10
+medford hs,medford hs,10
+memphis tn,memphis,10
+memphis tn,Memphis (TN),10
+mesa state,mesa state,10
+middlebury,middlebury,10
+midland hs,midland hs,10
+millard hs,millard hs,10
+miramar hs,miramar hs,10
+moeller hs,moeller hs,10
+momence hs,momence hs,10
+moody h.s.,moody h.s.,10
+mullins hs,mullins hs,10
+mulvane hs,mulvane hs,10
+navarro jc,navarro jc,10
+new mexico,new mexico,10
+nichols ma,Nichols (MA),10
+nitro h.s.,nitro h.s.,10
+north park,north park,10
+notre dame,notre dame,10
+notre dame,Notre Dame (IN),10
+occidental,occidental,10
+occidental,Occidental (CA),10
+ohio state,ohio state,10
+oregon st.,Oregon St.,10
+pacific ca,Pacific (CA),10
+pacific or,Pacific (OR),10
+parrish hs,parrish hs,10
+paw paw hs,paw paw hs,10
+penn st.,penn state,8
+pepperdine,pepperdine,10
+peru state,peru state,10
+pitt,pittsburgh,4
+rhein fire,rhein fire,10
+rosehulman,rosehulman,10
+saguaro hs,saguaro hs,10
+samford al,Samford (AL),10
+san angelo,san angelo,10
+sd mesa cc,sd mesa cc,10
+serra h.s.,serra h.s.,10
+seton hill,seton hill,10
+seton hill,Seton Hill (PA),10
+sewanee tn,Sewanee (TN),10
+shafter hs,shafter hs,10
+shawnee hs,shawnee hs,10
+simpson ia,Simpson (IA),10
+springdale,springdale,10
+st. thomas,st. thomas,10
+stadium hs,stadium hs,10
+sulphur hs,sulphur hs,10
+sundown hs,sundown hs,10
+sunyalbany,sunyalbany,10
+tascosa hs,tascosa hs,10
+texas tech,texas tech,10
+trenton hs,trenton hs,10
+trinity ct,Trinity (CT),10
+trinity tx,Trinity (TX),10
+troy state,troy state,10
+upper iowa,upper iowa,10
+ursinus pa,Ursinus (PA),10
+utah blaze,utah blaze,10
+utah st.,utah state,8
+valparaiso,valparaiso,10
+valparaiso,Valparaiso (IN),10
+washington,washington,10
+wayland hs,wayland hs,10
+waynesburg,waynesburg,10
+waynesburg,Waynesburg (PA),10
+wayzata hs,wayzata hs,10
+wharton hs,wharton hs,10
+widener pa,Widener (PA),10
+windham hs,windham hs,10
+wittenberg,wittenberg,10
+wittenberg,Wittenberg (OH),10
+adams state,Adams St. (CO),11
+adams state,adams state,11
+alabama a&m,alabama a&m,11
+alabama a&m,Alabama A&M;,11
+alderson wv,Alderson (WV),11
+alliance hs,alliance hs,11
+anderson in,Anderson (IN),11
+arizona st.,Arizona St.,11
+atlantic hs,atlantic hs,11
+augsburg mn,Augsburg (MN),11
+austin peay,austin peay,11
+avondale hs,avondale hs,11
+ball st.,Ball St. (IN),8
+belfield hs,belfield hs,11
+belhaven ms,Belhaven (MS),11
+benedict sc,Benedict (SC),11
+benedictine,benedictine,11
+bluffton oh,Bluffton (OH),11
+boise state,boise state,11
+bowie state,bowie state,11
+brandeis ma,Brandeis (MA),11
+briar cliff,briar cliff,11
+briar cliff,Briar Cliff (IA),11
+brooklyn ny,Brooklyn (NY),11
+campbell nc,Campbell (NC),11
+canisius ny,Canisius (NY),11
+carleton mn,Carleton (MN),11
+carlisle hs,carlisle hs,11
+catholic dc,Catholic (DC),11
+chattanooga,chattanooga,11
+cheshire hs,cheshire hs,11
+chico state,chico state,11
+cleburne hs,cleburne hs,11
+coast guard,coast guard,11
+coast guard,Coast Guard (CT),11
+columbia ny,Columbia (NY),11
+columbia hs,columbia hs,11
+connecticut,connecticut,11
+cumberlands,cumberlands,11
+dangerfield,dangerfield,11
+davidson nc,Davidson (NC),11
+defiance oh,Defiance (OH),11
+delta state,delta state,11
+denver gold,denver gold,11
+duquesne pa,Duquesne (PA),11
+eastland hs,eastland hs,11
+eastside hs,eastside hs,11
+edinboro pa,edinboro,11
+edinboro pa,Edinboro (PA),11
+eldorado hs,eldorado hs,11
+ellicott hs,ellicott hs,11
+elmhurst il,Elmhurst (IL),11
+fairhope hs,fairhope hs,11
+farragut hs,farragut hs,11
+faulkner al,Faulkner (AL),11
+flathead hs,flathead hs,11
+florence hs,florence hs,11
+florida a&m,florida a&m,11
+florida a&m,Florida A&M;,11
+fsu,Florida St.,3
+floydada hs,floydada hs,11
+foothill jc,foothill jc,11
+franklin in,Franklin (IN),11
+franklin hs,franklin hs,11
+gallatin hs,gallatin hs,11
+georgia st.,Georgia St.,11
+graz giants,graz giants,11
+grinnell ia,Grinnell (IA),11
+groveton hs,groveton hs,11
+hamilton hs,hamilton hs,11
+hastings ne,Hastings (NE),11
+hayfield ss,hayfield ss,11
+highland hs,highland hs,11
+idaho state,Idaho St.,11
+idaho state,idaho state,11
+indiana st.,Indiana St.,11
+indiana st.,indiana state,11
+jennings hs,jennings hs,11
+kent st. oh,Kent St. (OH),11
+kings point,kings point,11
+la cueva hs,la cueva hs,11
+la salle pa,La Salle (PA),11
+lagrange ga,LaGrange (GA),11
+lake forest,lake forest,11
+lakeland wi,lakeland,11
+lakeland wi,Lakeland (WI),11
+lawrence wi,Lawrence (WI),11
+leavenworth,leavenworth,11
+lenoirrhyne,lenoirrhyne,11
+linfield or,Linfield (OR),11
+livingstone,livingstone,11
+livingstone,Livingstone (NC),11
+marshall hs,marshall hs,11
+mcdowell hs,mcdowell hs,11
+mesa st. co,Mesa St. (CO),11
+millikin il,millikin,11
+millikin il,Millikin (IL),11
+ole miss,mississippi,8
+monahans hs,monahans hs,11
+monmouth il,Monmouth (IL),11
+monmouth nj,Monmouth (NJ),11
+montana st.,Montana St.,11
+moravian pa,Moravian (PA),11
+morningside,morningside,11
+morningside,Morningside (IA),11
+mount union,mount union,11
+mount union,Mount Union (OH),11
+mt. hood cc,mt. hood cc,11
+mt. hope hs,mt. hope hs,11
+nativity hs,nativity hs,11
+nazareth hs,nazareth hs,11
+new york ny,New York (NY),11
+newberry sc,Newberry (SC),11
+nordonia hs,nordonia hs,11
+north texas,north texas,11
+oakcrest hs,oakcrest hs,11
+oregon tech,oregon tech,11
+ouachita hs,ouachita hs,11
+pasadena cc,pasadena cc,11
+pattonville,pattonville,11
+pawhuska hs,pawhuska hs,11
+peru st. ne,Peru St. (NE),11
+piedmont hs,piedmont hs,11
+pmc/widener,pmc/widener,11
+richmond va,Richmond (VA),11
+richmond hs,richmond hs,11
+ridgeway hs,ridgeway hs,11
+rockford il,Rockford (IL),11
+sandusky hs,sandusky hs,11
+santa clara,santa clara,11
+santa clara,Santa Clara (CA),11
+seminole hs,seminole hs,11
+sequoyah hs,sequoyah hs,11
+shepherd wv,Shepherd (WV),11
+simsbury hs,simsbury hs,11
+sioux falls,sioux falls,11
+sioux falls,Sioux Falls (SD),11
+southern la,Southern (LA),11
+springfield,springfield,11
+springfield,Springfield (MA),11
+st. ambrose,st. ambrose,11
+st. francis,st. francis,11
+st. norbert,st. norbert,11
+st. paul hs,st. paul hs,11
+stamford hs,stamford hs,11
+sterling ks,Sterling (KS),11
+sterling hs,sterling hs,11
+stillman al,Stillman (AL),11
+stockton hs,stockton hs,11
+stony brook,stony brook,11
+suny canton,suny canton,11
+susquehanna,susquehanna,11
+susquehanna,Susquehanna (PA),11
+syracuse,Syracuse (NY),8
+texas state,texas state,11
+the citadel,the citadel,11
+thomas more,thomas more,11
+thomas more,Thomas More (KY),11
+tuskegee al,Tuskegee (AL),11
+ucla,ucla bruins,4
+usc,usc - dc/dl,3
+wake forest,wake forest,11
+wake forest,Wake Forest (NC),11
+wartburg ia,wartburg,11
+wartburg ia,Wartburg (IA),11
+wayne state,wayne state,11
+weber state,weber state,11
+westminster,westminster,11
+yorktown hs,yorktown hs,11
+albany state,Albany St. (GA),12
+albany state,albany state,12
+albemarle hs,albemarle hs,12
+alcorn state,Alcorn St. (MS),12
+alcorn state,alcorn state,12
+angelo state,angelo state,12
+ardmore h.s.,ardmore h.s.,12
+arkansas a&m,arkansas a&m,12
+arkansas st.,Arkansas St.,12
+arms academy,arms academy,12
+augustana il,Augustana (IL),12
+augustana sd,Augustana (SD),12
+ave maria fl,Ave Maria (FL),12
+avonworth hs,avonworth hs,12
+ballinger hs,ballinger hs,12
+bard college,bard college,12
+boise st. id,Boise St. (ID),12
+bowie st. md,Bowie St. (MD),12
+breckenridge,breckenridge,12
+broughton hs,broughton hs,12
+burroughs hs,burroughs hs,12
+cal lutheran,cal lutheran,12
+carsonnewman,carsonnewman,12
+centenary la,Centenary (LA),12
+claremore hs,claremore hs,12
+clinton h.s.,clinton h.s.,12
+colorado st.,Colorado St.,12
+colorado st.,colorado state,12
+concordia il,Concordia (IL),12
+concordia mi,Concordia (MI),12
+concordia ne,Concordia (NE),12
+concordia wi,Concordia (WI),12
+creighton ne,Creighton (NE),12
+cresskill hs,cresskill hs,12
+crestline hs,crestline hs,12
+dakota state,dakota state,12
+delta st. ms,Delta St. (MS),12
+detroit fury,detroit fury,12
+dixie st. ut,Dixie St. (UT),12
+east central,east central,12
+east central,East Central (OK),12
+eastbrook hs,eastbrook hs,12
+eastern utah,eastern utah,12
+el camino hs,el camino hs,12
+fairfield ct,Fairfield (CT),12
+ferris state,ferris state,12
+florida tech,Florida Tech,12
+fordham prep,fordham prep,12
+fresno state,fresno state,12
+gallaudet dc,Gallaudet (DC),12
+gardner-webb,gardner-webb,12
+gardner-webb,Gardner-Webb (NC),12
+gar-field hs,gar-field hs,12
+georgia tech,georgia tech,12
+gonzaga prep,gonzaga prep,12
+greenwood hs,greenwood hs,12
+gull lake hs,gull lake hs,12
+hahnville hs,hahnville hs,12
+hillsdale mi,hillsdale,12
+hillsdale mi,Hillsdale (MI),12
+holy name hs,holy name hs,12
+howard payne,howard payne,12
+howard payne,Howard Payne (TX),12
+illinois st.,illinois st.,12
+jacksonville,jacksonville,12
+jacksonville,Jacksonville (FL),12
+jamestown nd,Jamestown (ND),12
+john carroll,john carroll,12
+john carroll,John Carroll (OH),12
+kalamazoo mi,Kalamazoo (MI),12
+kansas st.,kansas state,10
+kentucky st.,Kentucky St.,12
+l.a. raiders,l.a. raiders,12
+lafayette pa,Lafayette (PA),12
+lancaster hs,lancaster hs,12
+lane college,lane college,12
+macarthur hs,macarthur hs,12
+macmurray il,MacMurray (IL),12
+manhattan ny,Manhattan (NY),12
+mansfield hs,mansfield high school,12
+mansfield hs,mansfield hs,12
+marble falls,marble falls,12
+mariemont hs,mariemont hs,12
+marquette wi,Marquette (WI),12
+maryville tn,Maryville (TN),12
+massillon hs,massillon hs,12
+mcadory h.s.,mcadory h.s.,12
+mcalester hs,mcalester hs,12
+merrimack ma,Merrimack (MA),12
+methodist nc,Methodist (NC),12
+millersville,millersville,12
+millersville,Millersville (PA),12
+minot st. nd,Minot St. (ND),12
+mishawaka hs,mishawaka hs,12
+missouri s&t,missouri s&t,12
+missouri st.,Missouri St.,12
+montana tech,Montana Tech,12
+montville hs,montville hs,12
+morgan state,morgan state,12
+morris brown,morris brown,12
+mount ida ma,Mount Ida (MA),12
+murray state,murray state,12
+muskingum oh,Muskingum (OH),12
+new haven ct,New Haven (CT),12
+north dakota,north dakota,12
+northeastern,northeastern,12
+northeastern,Northeastern (MA),12
+northview hs,northview hs,12
+northwestern,northwestern,12
+northwestern,Northwestern (IL),12
+northwood mi,Northwood (MI),12
+northwood tx,Northwood (TX),12
+oklahoma st.,Oklahoma St.,12
+oregon st.,oregon state,10
+orlando rage,orlando rage,12
+penncrest hs,penncrest hs,12
+penn,pennsylvania,4
+philadelphia eagles,phil. eagles,19
+philadelphia,philadelphia,12
+pikeville ky,Pikeville (KY),12
+prairie view,prairie view,12
+prairie view,prairie view a&m,12
+prairie view,Prairie View A&M; (TX),12
+presbyterian,presbyterian,12
+presbyterian,Presbyterian (SC),12
+princeton hs,princeton hs,12
+quarterbacks,quarterbacks,12
+reinhardt ga,Reinhardt (GA),12
+rhode island,rhode island,12
+richfield hs,richfield hs,12
+rl turner hs,rl turner hs,12
+rochester ny,Rochester (NY),12
+sacred heart,sacred heart,12
+sacred heart,Sacred Heart (CT),12
+saint john's,saint john's,12
+saint mary's,saint mary's,12
+saint xavier,saint xavier,12
+saint xavier,Saint Xavier (IL),12
+salisbury md,Salisbury (MD),12
+san diego ca,San Diego (CA),12
+san mateo jc,san mateo jc,12
+se louisiana,se louisiana,12
+shippensburg,shippensburg,12
+shippensburg,Shippensburg (PA),12
+shoreline cc,shoreline cc,12
+siskiyous cc,siskiyous cc,12
+snow college,snow college,12
+sonoma state,sonoma state,12
+south dakota,south dakota,12
+southwest ms,southwest ms,12
+southwestern,southwestern,12
+st. lawrence,st. lawrence,12
+stevenson md,stevenson,12
+stevenson md,Stevenson (MD),12
+stonehill ma,Stonehill (MA),12
+talladega hs,talladega hs,12
+texas terror,texas terror,12
+trinity prep,trinity prep,12
+truman state,truman state,12
+uc riverside,uc riverside,12
+umass lowell,umass lowell,12
+unc pembroke,unc pembroke,12
+ut arlington,ut arlington,12
+virginia st.,Virginia St.,12
+virginia st.,virginia state,12
+wadsworth hs,wadsworth hs,12
+wayne st. mi,Wayne St. (MI),12
+wayne st. ne,Wayne St. (NE),12
+webb city hs,webb city hs,12
+weber st. ut,Weber St. (UT),12
+wellesley hs,wellesley hs,12
+west alabama,west alabama,12
+west chester,west chester,12
+west chester,West Chester (PA),12
+west florida,west florida,12
+west georgia,west georgia,12
+west liberty,west liberty,12
+whitworth wa,Whitworth (WA),12
+william penn,william penn,12
+william penn,William Penn (IA),12
+winona state,Winona St. (MN),12
+winona state,winona state,12
+alabama magic,alabama magic,13
+alabama state,Alabama St.,13
+alabama state,alabama state,13
+alabama state,alabama state university,13
+angelo st. tx,Angelo St. (TX),13
+anna maria ma,Anna Maria (MA),13
+arizona st.,arizona state,11
+arkansas,arkansas - rc,8
+arkansas tech,arkansas tech,13
+azusa pacific,azusa pacific,13
+azusa pacific,Azusa Pacific (CA),13
+bainbridge hs,bainbridge hs,13
+bates college,bates college,13
+belleville hs,belleville hs,13
+bemidji state,bemidji state,13
+big spring hs,big spring hs,13
+blinn college,blinn college,13
+bloomsburg pa,Bloomsburg (PA),13
+bloomsburg pa,Bloomsburg JV (PA),13
+bowling green,bowling green,13
+bowling green,Bowling Green (OH),13
+briarcrest hs,briarcrest hs,13
+brigham young,brigham young,13
+brigham young,Brigham Young (UT),13
+buffalo bills,buffalo bills,13
+buffalo state,buffalo state,13
+california pa,California (PA),13
+canterbury in,Canterbury (IN),13
+cedarville oh,Cedarville (OH),13
+central state,central state,13
+charleston wv,Charleston (WV),13
+chicago bears,chicago bears,13
+cumberland ky,Cumberland (KY),13
+cumberland tn,Cumberland (TN),13
+dakota st. sd,Dakota St. (SD),13
+detroit lions,detroit lions,13
+doane college,doane college,13
+dodge city cc,dodge city cc,13
+east carolina,east carolina,13
+east carolina,East Carolina (NC),13
+east noble hs,east noble hs,13
+emory & henry,emory & henry,13
+emory & henry,Emory & Henry (VA),13
+emporia state,emporia state,13
+ferris st. mi,Ferris St. (MI),13
+fsu,florida state,3
+fort lewis co,fort lewis,13
+fort lewis co,Fort Lewis (CO),13
+fort scott cc,fort scott cc,13
+fresno st. ca,Fresno St. (CA),13
+fw boswell hs,fw boswell hs,13
+georgetown dc,Georgetown (DC),13
+georgetown ky,Georgetown (KY),13
+georgetown hs,georgetown hs,13
+georgia state,georgia state,13
+greenville il,Greenville (IL),13
+grove city pa,Grove City (PA),13
+hampdensydney,hampdensydney,13
+hardinsimmons,hardinsimmons,13
+harlandale hs,harlandale hs,13
+harrisburg hs,harrisburg hs,13
+hayward state,hayward state,13
+high point nc,High Point (NC),13
+holy cross ma,Holy Cross (MA),13
+hutchinson cc,hutchinson cc,13
+iowa wesleyan,iowa wesleyan,13
+jackson state,jackson state,13
+james madison,james madison,13
+james madison,James Madison (VA),13
+john glenn hs,john glenn hs,13
+john tyler hs,john tyler hs,13
+kentucky,kentucky asst,8
+lewis & clark,lewis & clark,13
+lewis & clark,Lewis & Clark (OR),13
+lock haven pa,lock haven,13
+lock haven pa,Lock Haven (PA),13
+lock haven pa,Lock Haven JV (PA),13
+loras college,loras college,13
+lsu,Louisiana St.,3
+macalester mn,Macalester (MN),13
+mankato state,mankato state,13
+massachusetts,massachusetts,13
+mcneese state,mcneese state,13
+memphis state,memphis state,13
+menlo college,menlo college,13
+mercyhurst pa,mercyhurst,13
+mercyhurst pa,Mercyhurst (PA),13
+miami hooters,miami hooters,13
+michigan tech,michigan tech,13
+middlebury vt,Middlebury (VT),13
+middletown hs,middletown hs,13
+midwestern ia,Midwestern (IA),13
+milano rhinos,milano rhinos,13
+montana state,montana state,13
+morgan st. md,Morgan St. (MD),13
+morristown hs,morristown hs,13
+ms gulf coast,ms gulf coast,13
+muhlenberg pa,Muhlenberg (PA),13
+murray st. ky,Murray St. (KY),13
+nebraska-omaha,nebraskaomaha,14
+new hampshire,new hampshire,13
+new jersey nj,New Jersey (NJ),13
+new york jets,new york jets,13
+new york tech,New York Tech,13
+niles east hs,niles east hs,13
+norfolk state,norfolk state,13
+north alabama,north alabama,13
+north central,north central,13
+north central,North Central (IL),13
+north park il,North Park (IL),13
+northern iowa,northern iowa,13
+oakland - nfl,oakland - nfl,13
+oglethorpe ga,Oglethorpe (GA),13
+ohio northern,ohio northern,13
+ohio wesleyan,ohio wesleyan,13
+parsippany hs,parsippany hs,13
+pepperdine ca,Pepperdine (CA),13
+petersburg hs,petersburg hs,13
+pitt,Pittsburgh (PA),4
+plainfield hs,plainfield hs,13
+pori bears[2],pori bears[2],13
+prattville hs,prattville hs,13
+randolphmacon,randolphmacon,13
+sa central hs,sa central hs,13
+sacramento cc,sacramento cc,13
+saint ambrose,saint ambrose,13
+saint ambrose,Saint Ambrose (IA),13
+saint francis,saint francis,13
+saint olaf mn,Saint Olaf (MN),13
+san marcos hs,san marcos hs,13
+santa rosa jc,santa rosa jc,13
+shenandoah va,Shenandoah (VA),13
+siena heights,siena heights,13
+siena heights,Siena Heights (MI),13
+sonoma st. ca,Sonoma St. (CA),13
+south alabama,south alabama,13
+south florida,south florida,13
+southern miss,southern miss,13
+southern utah,southern utah,13
+st. edward hs,st. edward hs,13
+st. joseph hs,st. joseph hs,13
+st. xavier hs,st. xavier hs,13
+suny cortland,suny cortland,13
+swarthmore pa,Swarthmore (PA),13
+sweetwater hs,sweetwater hs,13
+tennessee st.,Tennessee St.,13
+texas college,Texas College,13
+texas-el paso,Texas-El Paso,13
+truman st. mo,Truman St. (MO),13
+union college,union college,13
+uwplatteville,uwplatteville,13
+vanderbilt,vanderbilt,10
+vanderbilt,Vanderbilt (TN),10
+virginia tech,virginia tech,13
+virginia-wise,virginia-wise,13
+walkertown hs,walkertown hs,13
+washington mo,Washington (MO),13
+west virginia,west virginia,13
+wichita state,wichita state,13
+willamette or,willamette,13
+willamette or,Willamette (OR),13
+wilmington oh,Wilmington (OH),13
+winnetonka hs,winnetonka hs,13
+air academy hs,air academy hs,14
+arkadelphia hs,arkadelphia hs,14
+arkansas st.,arkansas state,12
+arthur hill hs,arthur hill hs,14
+arvada west hs,arvada west hs,14
+austin college,austin college,14
+bakersfield jc,bakersfield jc,14
+bemidji st. mn,Bemidji St. (MN),14
+benedictine il,Benedictine (IL),14
+benedictine ks,Benedictine (KS),14
+berlin thunder,berlin thunder,14
+bethel park hs,bethel park hs,14
+billings cc hs,billings cc hs,14
+blue valley hs,blue valley hs,14
+boston college,boston college,14
+boston college,Boston College (MA),14
+bridgewater va,Bridgewater (VA),14
+buena vista ia,Buena Vista (IA),14
+buffalo st. ny,Buffalo St. (NY),14
+campbellsville,campbellsville,14
+campbellsville,Campbellsville (KY),14
+carolina storm,carolina storm,14
+central st. oh,Central St. (OH),14
+chadron st. ne,Chadron St. (NE),14
+charlotte rage,charlotte rage,14
+coffeyville cc,coffeyville cc,14
+colorado mines,colorado mines,14
+cortland state,cortland state,14
+dallas cowboys,dallas cowboys,14
+delaware state,Delaware St.,14
+delaware state,delaware state,14
+denver broncos,denver broncos,14
+denver city hs,denver city hs,14
+e. e. smith hs,e. e. smith hs,14
+eagle grove hs,eagle grove hs,14
+east carter hs,east carter hs,14
+eastern oregon,eastern oregon,14
+ellsworth c.c.,ellsworth c.c.,14
+emporia st. ks,Emporia St. (KS),14
+fairmont state,fairmont state,14
+father ryan hs,father ryan hs,14
+fort hays asst,fort hays asst,14
+garden city cc,garden city cc,14
+goose creek hs,goose creek hs,14
+grants pass hs,grants pass hs,14
+great falls hs,great falls hs,14
+hiram scott ne,Hiram Scott (NE),14
+houston oilers,houston oilers,14
+houston texans,houston texans,14
+humboldt state,humboldt state,14
+illinois st.,illinois state,12
+incarnate word,incarnate word,14
+incarnate word,Incarnate Word (TX),14
+j.c. harmon hs,j.c. harmon hs,14
+jackson st. ms,Jackson St. (MS),14
+jess lanier hs,jess lanier hs,14
+kentucky state,kentucky state,14
+lake forest il,Lake Forest (IL),14
+lake travis hs,lake travis hs,14
+lebanon valley,lebanon valley,14
+lebanon valley,Lebanon Valley (PA),14
+los molinos hs,los molinos hs,14
+louisiana tech,louisiana tech,14
+macmurray asst,macmurray asst,14
+maine maritime,maine maritime,14
+maine maritime,maine maritime academy,14
+mcneese st. la,McNeese St. (LA),14
+memphis maniax,memphis maniax,14
+miami dolphins,miami dolphins,14
+michigan state,Michigan St.,14
+michigan state,michigan state,14
+midland lee hs,midland lee hs,14
+missouri st.,missouri state,12
+missouri-rolla,missourirolla,14
+missouri-rolla,Missouri-Rolla,14
+morehead state,morehead state,14
+morrisville hs,morrisville hs,14
+mt. whitney hs,mt. whitney hs,14
+new mexico st.,New Mexico St.,14
+new york stars,new york stars,14
+nicholls state,nicholls state,14
+norfolk st. va,Norfolk St. (VA),14
+north carolina,north carolina,14
+northern state,northern state,14
+northside h.s.,northside h.s.,14
+oaks christian,oaks christian,14
+ohio dominican,ohio domican,14
+ohio dominican,Ohio Dominican,14
+oklahoma st.,oklahoma state,12
+park center hs,park center hs,14
+plymouth state,plymouth state,14
+porterville hs,porterville hs,14
+portland state,portland state,14
+portland storm,portland storm,14
+puget sound wa,Puget Sound (WA),14
+ranger college,ranger college,14
+riverside city,riverside city,14
+rocky mountain,rocky mountain,14
+rocky mountain,Rocky Mountain (MT),14
+roskilde kings,roskilde kings,14
+saginaw valley,saginaw valley,14
+sam houston hs,sam houston hs,14
+sam rayburn hs,sam rayburn hs,14
+san jose state,san jose state,14
+san lorenzo hs,san lorenzo hs,14
+savannah state,savannah state,14
+sharon hill hs,sharon hill hs,14
+south carolina,south carolina,14
+spartanburg hs,spartanburg hs,14
+st. charles hs,st. charles hs,14
+st. louis rams,st. louis rams,14
+streetsboro hs,streetsboro hs,14
+stroudsburg hs,stroudsburg hs,14
+suny-albany ny,SUNY-Albany (NY),14
+tarleton state,tarleton state,14
+tennessee tech,tennessee tech,14
+texas lutheran,texas lutheran,14
+texas southern,texas southern,14
+twin cedars hs,twin cedars hs,14
+valdosta state,valdosta state,14
+virginia union,virginia union,14
+wartburg coll.,wartburg coll.,14
+washington st.,Washington St.,14
+wash-st. louis,wash-st. louis,14
+west branch hs,west branch hs,14
+west texas a&m,west texas a&m,14
+west texas a&m,West Texas A&M;,14
+western oregon,Western Oregon,14
+western oregon,western oregon state,14
+western st. co,Western St. (CO),14
+westminster mo,Westminster (MO),14
+westminster pa,Westminster (PA),14
+westminster hs,westminster hs,14
+wichita st. ks,Wichita St. (KS),14
+will rogers hs,will rogers hs,14
+william & mary,william & mary,14
+william & mary,William & Mary (VA),14
+william & mary,William & Mary Freshmen (VA),14
+william jewell,william jewell,14
+william jewell,William Jewell (MO),14
+worcester tech,worcester tech,14
+worcester tech,Worcester Tech (MA),14
+ash. crestv. hs,ash. crestv. hs,15
+atlanta falcons,atlanta falcons,15
+baker county hs,baker county hs,15
+baltimore colts,baltimore colts,15
+baltimore stars,baltimore stars,15
+birmingham fire,birmingham fire,15
+boston brawlers,boston brawlers,15
+boston breakers,boston breakers,15
+boston patriots,boston patriots,15
+broken arrow hs,broken arrow hs,15
+cal poly pomona,cal poly pomona,15
+ucf,central florida,3
+charles page hs,charles page hs,15
+cole college co,Cole College (CO),15
+cooper union ny,Cooper Union (NY),15
+dickinson state,dickinson state,15
+east lansing hs,east lansing hs,15
+eastern arizona,eastern arizona,15
+fairmont st. wv,Fairmont St. (WV),15
+falls church hs,falls church hs,15
+fayetteville hs,fayetteville hs,15
+fitzgerald h.s.,fitzgerald h.s.,15
+fort hays state,fort hays state,15
+frostburg state,frostburg state,15
+garden grove hs,garden grove hs,15
+gilmour academy,gilmour academy,15
+glassboro state,glassboro state,15
+glenville state,glenville state,15
+grambling state,grambling state,15
+harnett central,harnett central,15
+henderson state,henderson state,15
+houston baptist,houston baptist,15
+houston baptist,Houston Baptist (TX),15
+humboldt st. ca,Humboldt St. (CA),15
+indianapolis in,Indianapolis (IN),15
+j. j. pearce hs,j. j. pearce hs,15
+jeff davis h.s.,jeff davis h.s.,15
+jones county jc,jones county jc,15
+kansas wesleyan,kansas wesleyan,15
+klein forest hs,klein forest hs,15
+lee's summit hs,lee's summit hs,15
+lenoir-rhyne nc,Lenoir-Rhyne (NC),15
+london monarchs,london monarchs,15
+louisville,louisville - dl,10
+mayville st. nd,Mayville St. (ND),15
+merchant marine,merchant marine,15
+merchant marine,Merchant Marine (NY),15
+misericordia pa,Misericordia (PA),15
+missouri valley,missouri valley,15
+montana western,Montana Western,15
+montclair state,montclair state,15
+moorhead st. mn,Moorhead St. (MN),15
+morehead st. ky,Morehead St. (KY),15
+ne oklahoma a&m,ne oklahoma a&m,15
+new york giants,new york giants,15
+newport news hs,newport news hs,15
+nicholls st. la,Nicholls St. (LA),15
+north warren hs,north warren hs,15
+northern st. sd,Northern St. (SD),15
+nw missouri st.,nw missouri st.,15
+oakland raiders,oakland raiders,15
+ohio,ohio university,4
+old dominion va,old dominion,15
+old dominion va,Old Dominion (VA),15
+olivet nazarene,olivet nazarene,15
+olivet nazarene,Olivet Nazarene (IL),15
+orlando thunder,orlando thunder,15
+plymouth st. nh,Plymouth St. (NH),15
+port angeles hs,port angeles hs,15
+portland st. or,Portland St. (OR),15
+prague panthers,prague panthers,15
+r. l. turner hs,r. l. turner hs,15
+rice,rice university,4
+saint anselm nh,Saint Anselm (NH),15
+saint john's mn,Saint John's (MN),15
+saint john's ny,Saint John's (NY),15
+saint mary's ca,Saint Mary's (CA),15
+saint thomas mn,Saint Thomas (MN),15
+salve regina ri,Salve Regina (RI),15
+san diego state,san diego state,15
+san jose st. ca,San Jose St. (CA),15
+savannah st. ga,Savannah St. (GA),15
+scotland school,scotland school,15
+se missouri st.,se missouri st.,15
+simon fraser bc,simon fraser,15
+simon fraser bc,Simon Fraser (BC),15
+southern oregon,southern oregon,15
+southwestern ks,Southwestern (KS),15
+southwestern tx,Southwestern (TX),15
+southwestern jc,southwestern jc,15
+spain park h.s.,spain park h.s.,15
+st. cloud state,st. cloud state,15
+st. john fisher,st. john fisher,15
+st. louis - nfl,st. louis - nfl,15
+st. thomas more,st. thomas more,15
+stephenville hs,stephenville hs,15
+steubenville hs,steubenville hs,15
+stevens tech nj,Stevens Tech (NJ),15
+stroud union hs,stroud union hs,15
+sul ross st. tx,Sul Ross St. (TX),15
+syracuse,syracuse orange,8
+t. r. miller hs,t. r. miller hs,15
+tampa bay storm,tampa bay storm,15
+tarleton st. tx,Tarleton St. (TX),15
+tennessee state,tennessee state,15
+terry parker hs,terry parker hs,15
+tcu,Texas Christian,3
+trinity college,trinity college,15
+umass minutemen,umass minutemen,15
+valdosta st. ga,Valdosta St. (GA),15
+washington - dc,washington - dc,15
+montana western,western montana,15
+westfield state,westfield state,15
+winston academy,winston academy,15
+wisconsin-stout,wisconsinstout,15
+wisconsin-stout,Wisconsin-Stout,15
+aldersonbroaddus,aldersonbroaddus,16
+aldersonbroaddus,Alderson-Broaddus College (WV),16
+amarillo dusters,amarillo dusters,16
+arch. riordan hs,arch. riordan hs,16
+archmere academy,archmere academy,16
+baltimore ravens,baltimore ravens,16
+berry college ga,Berry College (GA),16
+butte central hs,butte central hs,16
+california-davis,California-Davis,16
+carson-newman tn,Carson-Newman (TN),16
+castleton st. vt,Castleton St. (VT),16
+center hill h.s.,center hill h.s.,16
+central arkansas,central arkansas,16
+central michigan,central michigan,16
+central missouri,central missouri,16
+central missouri,Central Missouri St.,16
+central oklahoma,Central Oklahoma,16
+clark atlanta ga,clark atlanta,16
+clark atlanta ga,Clark Atlanta (GA),16
+cleveland browns,cleveland browns,16
+coastal carolina,coastal carolina,16
+coastal carolina,Coastal Carolina (SC),16
+colorado college,colorado college,16
+desoto county hs,desoto county hs,16
+dickinson st. nd,Dickinson St. (ND),16
+dora high school,dora high school,16
+dordt college ia,Dordt College (IA),16
+duncan byrnes hs,duncan byrnes hs,16
+east stroudsburg,east stroudsburg,16
+east stroudsburg,East Stroudsburg (PA),16
+eastern illinois,eastern illinois,16
+eastern kentucky,eastern kentucky,16
+eastern michigan,eastern michigan,16
+edmonton eskimos,edmonton eskimos,16
+edward waters fl,Edward Waters (FL),16
+england monarchs,england monarchs,16
+federal way h.s.,federal way h.s.,16
+fitchburg st. ma,Fitchburg St. (MA),16
+florida atlantic,florida atlantic,16
+florida southern,Florida Southern,16
+fort hays st. ks,Fort Hays St. (KS),16
+frankfurt galaxy,frankfurt galaxy,16
+fred t. foard hs,fred t. foard hs,16
+frostburg st. md,Frostburg St. (MD),16
+furman grad asst,furman grad asst,16
+georgia southern,georgia southern,16
+glenville st. wv,Glenville St. (WV),16
+grambling st. la,Grambling St. (LA),16
+granada hills hs,granada hills hs,16
+h. d. woodson hs,h. d. woodson hs,16
+hardee county hs,hardee county hs,16
+henderson st. ar,Henderson St. (AR),16
+highland park hs,highland park hs,16
+houston gamblers,houston gamblers,16
+hutchinson c. c.,hutchinson c. c.,16
+illinois college,Illinois College,16
+johns hopkins md,johns hopkins,16
+johns hopkins md,Johns Hopkins (MD),16
+johnson c. smith,johnson c. smith,16
+johnson c. smith,Johnson C. Smith (NC),16
+keystone oaks hs,keystone oaks hs,16
+lamar consol. hs,lamar consol. hs,16
+land o' lakes hs,land o' lakes hs,16
+long beach state,long beach state,16
+long beach state,long beach state 49ers,16
+los angeles rams,los angeles rams,16
+louisiana-monroe,louisiana-monroe,16
+madison-model hs,madison-model hs,16
+martin county hs,martin county hs,16
+martin luther mn,Martin Luther (MN),16
+middle tennessee,middle tennessee,16
+middle tennessee,Middle Tennessee St.,16
+midwestern state,midwestern state,16
+minnesota-duluth,minnesotaduluth,16
+minnesota-duluth,Minnesota-Duluth,16
+minnesota-morris,minnesotamorris,16
+minnesota-morris,Minnesota-Morris,16
+montclair st. nj,Montclair St. (NJ),16
+montreal machine,montreal machine,16
+mount st. joseph,mount st. joseph,16
+muscle shoals hs,muscle shoals hs,16
+nebraska-kearney,nebraskakearney,16
+nebraska-kearney,Nebraska-Kearney,16
+unlv,Nevada-Las Vegas,4
+new braunfels hs,new braunfels hs,16
+new mexico state,new mexico state,16
+norte del rio hs,norte del rio hs,16
+north dakota st.,North Dakota St.,16
+north dakota st.,north dakota state,16
+northern arizona,northern arizona,16
+northern nash hs,northern nash hs,16
+oakland invaders,oakland invaders,16
+oklahoma outlaws,oklahoma outlaws,16
+omaha nighthawks,omaha nighthawks,16
+ottawa renegades,ottawa renegades,16
+ouachita baptist,ouachita baptist,16
+ouachita baptist,Ouachita Baptist (AR),16
+pacific lutheran,pacific lutheran,16
+pacific lutheran,Pacific Lutheran (WA),16
+pasadena city cc,pasadena city cc,16
+peabody-burns hs,peabody-burns hs,16
+pittsburg st. ks,Pittsburg St. (KS),16
+pittsburgh state,pittsburgh state,16
+pomona-pitzer ca,Pomona-Pitzer (CA),16
+portland thunder,portland thunder,16
+rainier beach hs,rainier beach hs,16
+robert morris il,Robert Morris (IL),16
+robert morris pa,Robert Morris (PA),16
+rockford college,rockford college,16
+sacramento state,sacramento state,16
+saint francis il,Saint Francis (IL),16
+saint francis in,Saint Francis (IN),16
+saint francis ny,Saint Francis (NY),16
+saint francis pa,Saint Francis (PA),16
+saint francis hs,saint francis hs,16
+saint norbert wi,Saint Norbert (WI),16
+san diego st. ca,San Diego St. (CA),16
+san francisco ca,San Francisco (CA),16
+santa barbara jc,santa barbara jc,16
+seattle seahawks,seattle seahawks,16
+seneca valley hs,seneca valley hs,16
+seventy-first hs,seventy-first hs,16
+shiloh christian,shiloh christian,16
+slippery rock pa,Slippery Rock (PA),16
+south fayette hs,south fayette hs,16
+south georgia jc,south georgia jc,16
+southern academy,southern academy,16
+southwest st. mn,Southwest St. (MN),16
+spokane falls cc,spokane falls cc,16
+spring westfield,spring westfield,16
+st. andrews prep,st. andrews prep,16
+st. francis prep,st. francis prep,16
+stillman college,stillman college,16
+suny-cortland ny,SUNY-Cortland (NY),16
+tate high school,tate high school,16
+tennessee oilers,tennessee oilers,16
+tennessee titans,tennessee titans,16
+tennessee-martin,tennessee-martin,16
+trinity bible nd,Trinity Bible (ND),16
+us national team,us national team,16
+washington st.,washington state,14
+west texas state,west texas state,16
+western carolina,western carolina,16
+western carolina,Western Carolina (NC),16
+western illinois,western illinois,16
+western kentucky,western kentucky,16
+western michigan,western michigan,16
+westfield st. ma,Westfield St. (MA),16
+wichita falls hs,wichita falls hs,16
+william carey ms,William Carey (MS),16
+william paterson,william paterson,16
+william paterson,William Paterson (NJ),16
+worcester st. ma,Worcester St. (MA),16
+youngstown state,Youngstown St. (OH),16
+youngstown state,youngstown state,16
+youngstown state,youngstown state university,16
+amiens spartiates,amiens spartiates,17
+appalachian state,appalachian state,17
+appling county hs,appling county hs,17
+aransas pass h.s.,aransas pass h.s.,17
+arizona cardinals,arizona cardinals,17
+arizona wranglers,arizona wranglers,17
+austin peay state,austin peay state,17
+barcelona dragons,barcelona dragons,17
+becker college ma,Becker College (MA),17
+bishop carroll hs,bishop carroll hs,17
+bishop manogue hs,bishop manogue hs,17
+boston university,boston university,17
+cal st.-fullerton,Cal St.-Fullerton,17
+cal state hayward,cal state hayward,17
+carolina panthers,carolina panthers,17
+central methodist,central methodist,17
+central methodist,Central Methodist (MO),17
+chicago cardinals,chicago cardinals,17
+chowan university,chowan university,17
+college of dupage,college of dupage,17
+copiah-lincoln cc,copiah-lincoln cc,17
+davis & elkins wv,Davis & Elkins (WV),17
+dooly county h.s.,dooly county h.s.,17
+douglas county hs,douglas county hs,17
+fort valley state,fort valley state,17
+framingham st. ma,Framingham St. (MA),17
+fujitsu frontiers,fujitsu frontiers,17
+george washington,george washington,17
+george washington,George Washington (DC),17
+green bay packers,green bay packers,17
+hardin-simmons tx,Hardin-Simmons (TX),17
+hartfield academy,hartfield academy,17
+huntington heroes,huntington heroes,17
+husson college me,Husson College (ME),17
+illinois wesleyan,illinois wesleyan,17
+iowa barnstormers,iowa barnstormers,17
+kalamazoo college,kalamazoo college,17
+kentucky wesleyan,kentucky wesleyan,17
+knoxville college,knoxville college,17
+la valley college,la valley college,17
+las vegas outlaws,las vegas outlaws,17
+lee-scott academy,lee-scott academy,17
+lindsey wilson ky,Lindsey Wilson (KY),17
+louisiana college,louisiana college,17
+lubbock christian,lubbock christian,17
+marian college in,Marian College (IN),17
+mary hardinbaylor,mary hardinbaylor,17
+memphis showboats,memphis showboats,17
+middle georgia jc,middle georgia jc,17
+midwestern st. tx,Midwestern St. (TX),17
+minnesota vikings,minnesota vikings,17
+minnesota-mankato,minnesota-mankato,17
+mississippi state,Mississippi St.,17
+mississippi state,mississippi state,17
+morehouse college,morehouse college,17
+n. kansas city hs,n. kansas city hs,17
+nebraska wesleyan,Nebraska Wesleyan,17
+new york maritime,New York Maritime,17
+north gwinnett hs,north gwinnett hs,17
+north texas state,north texas state,17
+northern colorado,northern colorado,17
+northern illinois,northern illinois,17
+northern michigan,northern michigan,17
+odessa permian hs,odessa permian hs,17
+odessa roughnecks,odessa roughnecks,17
+orlando renegades,orlando renegades,17
+philadelphia bell,philadelphia bell,17
+philadelphia soul,philadelphia soul,17
+phoenix cardinals,phoenix cardinals,17
+piedmont hills hs,piedmont hills hs,17
+randolph-macon va,Randolph-Macon (VA),17
+saint joseph's in,Saint Joseph's (IN),17
+saint lawrence ny,Saint Lawrence (NY),17
+saint sebastian's,saint sebastian's,17
+sam houston state,sam houston state,17
+san diego city cc,san diego city cc,17
+santa fe trail hs,santa fe trail hs,17
+se missouri state,se missouri state,17
+seton-la salle hs,seton-la salle hs,17
+south dakota tech,South Dakota Tech,17
+south eugene h.s.,south eugene h.s.,17
+southern arkansas,southern arkansas,17
+southern illinois,southern illinois,17
+southern nazarene,southern nazarene,17
+southern nazarene,Southern Nazarene (OK),17
+southern virginia,southern virginia,17
+southwest baptist,southwest baptist,17
+southwest baptist,Southwest Baptist (MO),17
+southwestern asst,southwestern asst,17
+stephen f. austin,stephen f. austin,17
+stephen f. austin,Stephen F. Austin (TX),17
+suny-brockport ny,SUNY-Brockport (NY),17
+t. c. roberson hs,t. c. roberson hs,17
+tampa bay bandits,tampa bay bandits,17
+texas-san antonio,Texas-San Antonio,17
+toronto argonauts,toronto argonauts,17
+union high school,union high school,17
+valley city state,valley city state,17
+vestavia hills hs,vestavia hills hs,17
+warren central hs,warren central hs,17
+waynesf.-gosh. hs,waynesf.-gosh. hs,17
+west allegheny hs,west allegheny hs,17
+wisconsin-oshkosh,Wisconsin-Oshkosh,17
+worcester academy,worcester academy,17
+yokosuka seahawks,yokosuka seahawks,17
+alabama blackbirds,alabama blackbirds,18
+uab,Alabama-Birmingham,3
+alfred holbrook oh,Alfred Holbrook (OH),18
+amsterdam admirals,amsterdam admirals,18
+appalachian st. nc,Appalachian St. (NC),18
+archbishop ryan hs,archbishop ryan hs,18
+archbishop shaw hs,archbishop shaw hs,18
+austin peay st. tn,Austin Peay St. (TN),18
+baldwin-wallace oh,Baldwin-Wallace (OH),18
+bethune-cookman fl,bethune-cookman,18
+bethune-cookman fl,Bethune-Cookman (FL),18
+birminghamsouthern,birminghamsouthern,18
+black hills st. sd,Black Hills St. (SD),18
+boca raton academy,boca raton academy,18
+boiling springs hs,boiling springs hs,18
+brevard college nc,Brevard College (NC),18
+bridgewater st. ma,Bridgewater St. (MA),18
+cal st.-long beach,Cal St.-Long Beach,18
+cal st.-sacramento,Cal St.-Sacramento,18
+calgary stampeders,calgary stampeders,18
+cardinal mooney hs,cardinal mooney hs,18
+carlstad crusaders,carlstad crusaders,18
+carnegie mellon pa,carnegie mellon,18
+carnegie mellon pa,Carnegie Mellon (PA),18
+center township hs,center township hs,18
+central dauphin hs,central dauphin hs,18
+central washington,central washington,18
+christian bros. hs,christian bros. hs,18
+cincinnati bengals,cincinnati bengals,18
+cologne centurions,cologne centurions,18
+copperas cove h.s.,copperas cove h.s.,18
+cornell college ia,Cornell College (IA),18
+cornell,cornell university,7
+culver-stockton mo,Culver-Stockton (MO),18
+dakota wesleyan sd,Dakota Wesleyan (SD),18
+delaware valley pa,delaware valley,18
+delaware valley pa,Delaware Valley (PA),18
+donelson christian,donelson christian,18
+e. tennessee state,e. tennessee state,18
+east texas baptist,east texas baptist,18
+eastern new mexico,eastern new mexico,18
+eastern washington,eastern washington,18
+fayetteville state,fayetteville state,18
+fort valley st. ga,Fort Valley St. (GA),18
+frisco high school,frisco high school,18
+georgetown college,georgetown college,18
+gloucester city js,gloucester city js,18
+grand valley state,grand valley state,18
+hamburg sea devils,hamburg sea devils,18
+hampton university,hampton university,18
+hartford colonials,hartford colonials,18
+harvard,harvard university,7
+indianapolis colts,indianapolis colts,18
+jacksonville bulls,jacksonville bulls,18
+jacksonville state,jacksonville state,18
+jordan high school,jordan high school,18
+kankakee valley hs,kankakee valley hs,18
+kansas city chiefs,kansas city chiefs,18
+kemper military jc,kemper military jc,18
+kentucky christian,kentucky christian,18
+la courneuve flash,la courneuve flash,18
+los angeles xtreme,los angeles xtreme,18
+madison college wi,Madison College (WI),18
+milwaukee mustangs,milwaukee mustangs,18
+montreal alouettes,montreal alouettes,18
+montreal concordes,montreal concordes,18
+morris catholic hs,morris catholic hs,18
+mt. san antonio cc,mt. san antonio cc,18
+naval academy prep,naval academy prep,18
+new orleans saints,new orleans saints,18
+new york cityhawks,new york cityhawks,18
+new york sentinels,new york sentinels,18
+north carolina a&t,north carolina a&t,18
+north carolina a&t,North Carolina A&T;,18
+nc state,North Carolina St.,8
+northeastern state,northeastern state,18
+northwest missouri,northwest missouri,18
+northwestern state,northwestern state,18
+paul quinn college,paul quinn college,18
+peru state college,peru state college,18
+philadelphia stars,philadelphia stars,18
+poland seminary hs,poland seminary hs,18
+presbyterian asst.,presbyterian asst.,18
+rensselaer tech ny,Rensselaer Tech (NY),18
+rhode island asst.,rhode island asst.,18
+saint cloud st. mn,Saint Cloud St. (MN),18
+saint vincent's pa,Saint Vincent's (PA),18
+sam houston st. tx,sam houston st.,18
+sam houston st. tx,Sam Houston St. (TX),18
+san antonio riders,san antonio riders,18
+san antonio texans,san antonio texans,18
+san diego chargers,san diego chargers,18
+scottish claymores,scottish claymores,18
+sea island academy,sea island academy,18
+shorter college ga,Shorter College (GA),18
+shreveport pirates,shreveport pirates,18
+south carolina st.,South Carolina St.,18
+south carolina st.,south carolina state,18
+south dakota mines,south dakota mines,18
+south dakota state,South Dakota St.,18
+south dakota state,south dakota state,18
+south whidbey h.s.,south whidbey h.s.,18
+southern methodist,southern methodist,18
+southern methodist,Southern Methodist (TX),18
+southwest miami hs,southwest miami hs,18
+st. louis stampede,st. louis stampede,18
+st. mary's hs - dc,st. mary's hs - dc,18
+swarthmore college,swarthmore college,18
+u.s. international,u.s. international,18
+u.s. naval academy,u.s. naval academy,18
+univ. of san diego,univ. of san diego,18
+iowa,university of iowa,4
+valley city st. nd,Valley City St. (ND),18
+virginia-lynchburg,Virginia-Lynchburg,18
+waldorf college ia,Waldorf College (IA),18
+washington and lee,washington and lee,18
+wayland baptist tx,Wayland Baptist (TX),18
+west bloomfield hs,west bloomfield hs,18
+west virginia tech,west virginia tech,18
+western new mexico,western new mexico,18
+western washington,western washington,18
+winder-barrow h.s.,winder-barrow h.s.,18
+wisconsin lutheran,Wisconsin Lutheran,18
+archbishop mitty hs,archbishop mitty hs,19
+arkansas-monticello,Arkansas-Monticello,19
+arkansas-pine bluff,arkansas-pine bluff,19
+arlington martin hs,arlington martin hs,19
+austintown-fitch hs,austintown-fitch hs,19
+bowling green state,bowling green state,19
+broaddus college wv,Broaddus College (WV),19
+cal state fullerton,cal state fullerton,19
+california lutheran,california lutheran,19
+california redwoods,california redwoods,19
+central catholic hs,central catholic hs,19
+central connecticut,central connecticut,19
+central connecticut,Central Connecticut St.,19
+charleston southern,charleston southern,19
+charleston southern,Charleston Southern (SC),19
+churchill county hs,churchill county hs,19
+college of faith nc,College of Faith (NC),19
+colorado st.-pueblo,Colorado St.-Pueblo,19
+columbus destroyers,columbus destroyers,19
+elancourt templiers,elancourt templiers,19
+endicott college ma,Endicott College (MA),19
+fayetteville st. nc,Fayetteville St. (NC),19
+grand valley st. mi,Grand Valley St. (MI),19
+hamilton tiger-cats,hamilton tiger-cats,19
+jacksonville st. al,Jacksonville St. (AL),19
+johnstown-monroe hs,johnstown-monroe hs,19
+lincoln high school,lincoln high school,19
+lincoln memorial tn,Lincoln Memorial (TN),19
+los angeles express,los angeles express,19
+los angeles raiders,los angeles raiders,19
+louisiana-lafayette,louisianalafayette,19
+louisiana-lafayette,Louisiana-Lafayette,19
+loyola marymount ca,Loyola Marymount (CA),19
+lubbock estacado hs,lubbock estacado hs,19
+mansfield summit hs,mansfield summit hs,19
+marshall,marshall university,8
+maryland,Maryland University,8
+mcdaniel college md,McDaniel College (MD),19
+midamerica nazarene,midamerica nazarene,19
+midamerica nazarene,MidAmerica Nazarene (KS),19
+midland lutheran ne,Midland Lutheran (NE),19
+minnesota-crookston,Minnesota-Crookston,19
+mississippi college,mississippi college,19
+mountain brook h.s.,mountain brook h.s.,19
+new jersey generals,new jersey generals,19
+north greenville sc,north greenville,19
+north greenville sc,North Greenville (SC),19
+northeast louisiana,northeast louisiana,19
+northeastern st. ok,Northeastern St. (OK),19
+northwestern st. la,Northwestern St. (LA),19
+ottawa rough riders,ottawa rough riders,19
+philadelphia eagles,philadelphia eagles,19
+pittsburgh steelers,pittsburgh steelers,19
+rose-hulman tech in,Rose-Hulman Tech (IN),19
+saarland hurricanes,saarland hurricanes,19
+san diego assistant,san diego assistant),19
+san francisco 49ers,san francisco 49ers,19
+san francisco state,san francisco state,19
+usc,Southern California,3
+st. louis cardinals,st. louis cardinals,19
+stanford,stanford university,8
+stuttgart scorpions,stuttgart scorpions,19
+suny-morrisville ny,SUNY-Morrisville (NY),19
+suny-stony brook ny,SUNY-Stony Brook (NY),19
+syracuse,syracuse university,8
+texas a&m-commerce;,texas a&mcommerce,19
+texas a&m-commerce;,Texas A&M-Commerce;,19
+trinity valley c.c.,trinity valley c.c.,19
+maryland,university of maryland,8
+miami,university of miami,5
+texas,university of texas,5
+virginia destroyers,virginia destroyers,19
+washington & lee va,Washington & Lee (VA),19
+washington redskins,washington redskins,19
+wayne state college,wayne state college,19
+west liberty st. wv,West Liberty St. (WV),19
+west virginia state,West Virginia St.,19
+west virginia state,west virginia state,19
+western new england,western new england,19
+western new england,Western New England (MA),19
+william & vashti il,William & Vashti (IL),19
+william chrisman hs,william chrisman hs,19
+winston-salem state,Winston-Salem St. (NC),19
+winston-salem state,winston-salem state,19
+wisconsin-la crosse,Wisconsin-La Crosse,19
+arizona western c.c.,arizona western c.c.,20
+arlington heights hs,arlington heights hs,20
+ashland crestview hs,ashland crestview hs,20
+birmingham stallions,birmingham stallions,20
+bluefield college va,Bluefield College (VA),20
+cal state long beach,cal state long beach,20
+cal state northridge,cal state northridge,20
+college of san mateo,college of san mateo,20
+concordia college al,Concordia College (AL),20
+east tennessee state,East Tennessee St.,20
+east tennessee state,east tennessee state,20
+edmond memorial h.s.,edmond memorial h.s.,20
+edmond santa fe h.s.,edmond santa fe h.s.,20
+fairfield central hs,fairfield central hs,20
+franklin pierce h.s.,franklin pierce h.s.,20
+grays harbor college,grays harbor college,20
+greenville-weston hs,greenville-weston hs,20
+gustavus adolphus mn,Gustavus Adolphus (MN),20
+holy cross crusaders,holy cross crusaders,20
+jacksonville jaguars,jacksonville jaguars,20
+lake erie college oh,Lake Erie College (OH),20
+lincoln southeast hs,lincoln southeast hs,20
+lorain st. mary's hs,lorain st. mary's hs,20
+los angeles avengers,los angeles avengers,20
+mandarin high school,mandarin high school,20
+mississippi delta cc,mississippi delta cc,20
+montana st.-northern,Montana St.-Northern,20
+moreau catholic h.s.,moreau catholic h.s.,20
+new england patriots,new england patriots,20
+new mexico highlands,New Mexico Highlands,20
+new orleans breakers,new orleans breakers,20
+nc state,north carolina state,8
+picayune memorial hs,picayune memorial hs,20
+pope john paul ii hs,pope john paul ii hs,20
+presbyterian college,presbyterian college,20
+red bank catholic hs,red bank catholic hs,20
+s. connecticut state,s. connecticut state,20
+saginaw valley state,saginaw valley state,20
+saint augustine's nc,Saint Augustine's (NC),20
+saint bonaventure ny,Saint Bonaventure (NY),20
+saint john fisher ny,Saint John Fisher (NY),20
+saint scholastica mn,Saint Scholastica (MN),20
+san francisco st. ca,San Francisco St. (CA),20
+southern connecticut,southern connecticut,20
+southern connecticut,Southern Connecticut St.,20
+southern miss,southern mississippi,13
+tampa bay buccaneers,tampa bay buccaneers,20
+tuscaloosa county hs,tuscaloosa county hs,20
+university of dayton,university of dayton,20
+w. connecticut state,w. connecticut state,20
+washington marauders,washington marauders,20
+wisconsin-eau claire,wisconsineau claire,20
+wisconsin-eau claire,Wisconsin-Eau Claire,20
+wisconsin-whitewater,wisconsinwhitewater,20
+wisconsin-whitewater,Wisconsin-Whitewater,20
+wisconsin-whitewater,wiwhitewater,20
+atlantic christian nc,Atlantic Christian (NC),21
+ball st.,ball state university,8
+bethlehem catholic hs,bethlehem catholic hs,21
+birmingham barracudas,birmingham barracudas,21
+blue springs south hs,blue springs south hs,21
+christian brothers hs,christian brothers hs,21
+concordia-moorhead mn,Concordia-Moorhead (MN),21
+edward waters college,edward waters college,21
+elizabeth city st. nc,Elizabeth City St. (NC),21
+florida international,Florida International,21
+grand view college ia,Grand View College (IA),21
+huntingdon college al,Huntingdon College (AL),21
+kent state university,kent state university,21
+lakeland thunderbolts,lakeland thunderbolts,21
+lamar consolidated hs,lamar consolidated hs,21
+las vegas locomotives,las vegas locomotives,21
+los angeles valley cc,los angeles valley cc,21
+mary hardinbaylor,Mary Hardin-Baylor (TX),17
+minnesota st.-mankato,Minnesota St.-Mankato,21
+minnesota st.-mankato,minnesota statemankato,21
+missouri southern st.,missouri southern,21
+missouri southern st.,Missouri Southern St.,21
+mount saint joseph oh,Mount Saint Joseph (OH),21
+northwest rankin h.s.,northwest rankin h.s.,21
+notre dame college oh,Notre Dame College (OH),21
+oak grove high school,oak grove high school,21
+saginaw valley st. mi,Saginaw Valley St. (MI),21
+saint mary college ks,Saint Mary College (KS),21
+san angelo central hs,san angelo central hs,21
+santa ana foothill hs,santa ana foothill hs,21
+shawnee mission nw hs,shawnee mission nw hs,21
+southern oregon state,southern oregon state,21
+southwest texas state,southwest texas state,21
+st. john's college hs,st. john's college hs,21
+tennessee-chattanooga,Tennessee-Chattanooga,21
+texas a&m-kingsville;,Texas A&M-Kingsville;,21
+florida,university of florida,7
+winnipeg blue bombers,winnipeg blue bombers,21
+wisconsin-platteville,Wisconsin-Platteville,21
+wisconsin-river falls,Wisconsin-River Falls,21
+birmingham-southern al,Birmingham-Southern (AL),22
+casa grande union h.s.,casa grande union h.s.,22
+christopher newport va,christopher newport,22
+christopher newport va,Christopher Newport (VA),22
+claremont-mudd-scripps,claremont-mudd-scripps,22
+claremont-mudd-scripps,Claremont-Mudd-Scripps (CA),22
+cleveland thunderbolts,cleveland thunderbolts,22
+eastside catholic h.s.,eastside catholic h.s.,22
+ed block courage award,ed block courage award,22
+florida a&m university,florida a&m university,22
+franklin & marshall pa,franklin & marshall,22
+franklin & marshall pa,Franklin & Marshall (PA),22
+georgetown high school,georgetown high school,22
+governor livingston hs,governor livingston hs,22
+jacksonville episcopal,jacksonville episcopal,22
+long island-cw post ny,Long Island-CW Post (NY),22
+massachusetts maritime,Massachusetts Maritime,22
+meridian middle school,meridian middle school,22
+missouri western state,missouri western,22
+missouri western state,Missouri Western St.,22
+missouri western state,missouri western state,22
+north carolina central,north carolina central,22
+northwest whitfield hs,northwest whitfield hs,22
+oklahoma panhandle st.,Oklahoma Panhandle St.,22
+oregon lightning bolts,oregon lightning bolts,22
+sacramento gold miners,sacramento gold miners,22
+sandalwood high school,sandalwood high school,22
+south fork high school,south fork high school,22
+southeastern louisiana,southeastern louisiana,22
+southwestern louisiana,southwestern louisiana,22
+st. francis cabrini hs,st. francis cabrini hs,22
+st. francis desales hs,st. francis desales hs,22
+washington & jefferson,washington & jefferson,22
+west virginia wesleyan,west virginia wesleyan,22
+birmingham thunderbolts,birmingham thunderbolts,23
+boca raton community hs,boca raton community hs,23
+case western reserve oh,Case Western Reserve (OH),23
+central dauphin east hs,central dauphin east hs,23
+christopher columbus hs,christopher columbus hs,23
+concordia-saint paul mn,Concordia-Saint Paul (MN),23
+fellowship christian hs,fellowship christian hs,23
+jacksonville university,jacksonville university,23
+kirksville osteopath mo,Kirksville Osteopath (MO),23
+long island-brooklyn ny,Long Island-Brooklyn (NY),23
+massachusetts marauders,massachusetts marauders,23
+massachusetts-dartmouth,Massachusetts-Dartmouth,23
+massillon washington hs,massillon washington hs,23
+montgomery bell academy,montgomery bell academy,23
+morgan state university,morgan state university,23
+north carolina wesleyan,north carolina wesleyan,23
+north carolina-pembroke,North Carolina-Pembroke,23
+northwestern college ia,Northwestern College (IA),23
+northwestern college mn,Northwestern College (MN),23
+northwestern,northwestern university,12
+ohio midwestern college,Ohio Midwestern College,23
+orangeburg-wilkinson hs,orangeburg-wilkinson hs,23
+oregon st.,oregon state university,10
+portland forest dragons,portland forest dragons,23
+presentation college sd,Presentation College (SD),23
+robert morris-peoria il,Robert Morris-Peoria (IL),23
+minnesota,university of minnesota,9
+university of new haven,university of new haven,23
+university of san diego,university of san diego,23
+webber international fl,webber international,23
+webber international fl,Webber International (FL),23
+wisconsin-stevens point,Wisconsin-Stevens Point,23
+american heritage school,american heritage school,24
+cal poly-san luis obispo,Cal Poly-San Luis Obispo,24
+clark atlanta university,clark atlanta university,24
+colorado school of mines,colorado school of mines,24
+fsu,florida state university,3
+jackson state university,jackson state university,24
+middle georgia heat wave,middle georgia heat wave,24
+mississippi valley state,Mississippi Valley St.,24
+mississippi valley state,mississippi valley state,24
+north carolina-charlotte,North Carolina-Charlotte,24
+northeast missouri state,northeast missouri state,24
+northwest missouri state,Northwest Missouri St.,24
+northwest missouri state,northwest missouri state,24
+oliver wendell holmes hs,oliver wendell holmes hs,24
+philadelphia pharmacy pa,Philadelphia Pharmacy (PA),24
+resurrection/gabriels hs,resurrection/gabriels hs,24
+roselle park high school,roselle park high school,24
+sacred heart high school,sacred heart high school,24
+saskatchewan roughriders,saskatchewan roughriders,24
+southeast missouri state,Southeast Missouri St.,24
+southeast missouri state,southeast missouri state,24
+southwest missouri state,southwest missouri state,24
+trinity international il,trinity international,24
+trinity international il,Trinity International (IL),24
+notre dame,university of notre dame,10
+washington,university of washington,10
+american international ma,American International (MA),25
+campbellsville university,campbellsville university,25
+carlisle indian school pa,Carlisle Indian School (PA),25
+coahoma community college,coahoma community college,25
+episcopal school of texas,episcopal school of texas,25
+haskell indian nations ks,Haskell Indian Nations (KS),25
+humboldt state university,humboldt state university,25
+lake michigan catholic hs,lake michigan catholic hs,25
+martin county high school,martin county high school,25
+miami killian high school,miami killian high school,25
+northern colorado greeley,northern colorado greeley,25
+sacramento mountain lions,sacramento mountain lions,25
+savannah state university,savannah state university,25
+southeastern oklahoma st.,Southeastern Oklahoma St.,25
+southwest minnesota state,southwest minnesota state,25
+texas lutheran university,texas lutheran university,25
+texas southern university,texas southern university,25
+ole miss,university of mississippi,8
+washington & jefferson pa,Washington & Jefferson (PA),25
+western connecticut state,Western Connecticut St.,25
+western connecticut state,western connecticut state,25
+campbellsville high school,campbellsville high school,26
+fairleigh dickinsonflorham,fairleigh dickinsonflorham,26
+grambling state,grambling state university,15
+maranatha baptist bible wi,Maranatha Baptist Bible (WI),26
+northeastern oklahoma,northeastern oklahoma asst,21
+northwest mississippi c.c.,northwest mississippi c.c.,26
+oratory preparatory school,oratory preparatory school,26
+southwestern assemblies tx,Southwestern Assemblies (TX),26
+north dakota,university of north dakota,12
+warren central high school,warren central high school,26
+jacksonville sharks/express,jacksonville sharks/express,27
+johnson c. smith university,johnson c. smith university,27
+new mexico state,new mexico state university,16
+northwestern oklahoma state,Northwestern Oklahoma St.,27
+northwestern oklahoma state,northwestern oklahoma state,27
+oakland/los angeles raiders,oakland/los angeles raiders,27
+oklahoma baptist university,Oklahoma Baptist University,27
+st. louis/phoenix cardinals,st. louis/phoenix cardinals,27
+virginia military institute,Virginia Military Institute,27
+western illinois university,western illinois university,27
+central catholic high school,central catholic high school,28
+paducah tilghman high school,paducah tilghman high school,28
+second-team all-world league,second-team all-world league,28
+trinity catholic high school,trinity catholic high school,28
+university of new orleans la,University of New Orleans (LA),28
+kentucky christian,kentucky christian university,18
+nebraska,nebraska cornhuskers football,8
+southern methodist university,southern methodist university,29
+ucf,university of central florida,3
+william m. raines high school,william m. raines high school,29
+bowling green state,bowling green state university,19
+colgate,colgate university asst/dc/ilb,7
+fairleigh dickinson-madison nj,Fairleigh Dickinson-Madison (NJ),30
+brooklyn centre city college ny,Brooklyn Centre City College (NY),31
+houston/tennessee oilers/titans,houston/tennessee oilers/titans,31
+mississippi school for the deaf,mississippi school for the deaf,31
+virginia university of lynchburg,virginia university of lynchburg,32
+newport news apprentice school va,Newport News Apprentice School (VA),33
+rochester institute of technology,rochester institute of technology,33
+pro football hall of fame inductee,pro football hall of fame inductee,34
+allen county-scottsville high school,allen county-scottsville high school,36
+northwestern mn,northwestern eagles,15
+lexington hs,lexington hs,12
+mason city hs ia,mason city hs ia,16
+park city hs ut,park city hs ut,15
+campbell county hs (wy),campbell county hs (wy),23
+montana western,montana western,15
+gardner–webb,gardner–webb,12
+cincinnati moeller hs oh,cincinnati moeller hs oh,24
+northwestern mn,northwestern mn,15
+western connecticut,western connecticut,19
+lincoln hs ne,lincoln hs ne,13
+ricks college,ricks college,13
+georgia pre-flight,georgia pre-flight (assistant),18
+north carolina pre-flight,north carolina pre-flight,25
+bethany college,bethany college,15
+st. mary's hs,st. mary's hs,13
+mesa community college,mesa community college,22
+linfield,linfield,8
+utah st.,utah st.,8
+ball st.,ball st.,8
+colorado st.,colorado st.,12
+washington st.,washington st.,14
+lakeland wi,lakeland wi,11
+simon fraser bc,simon fraser bc,15
+arizona st.,arizona st.,11
+pitt,pitt,4
+north dakota st.,north dakota st.,16
+louisiana-lafayette,louisiana-lafayette,19
+oklahoma st.,oklahoma st.,12
+fsu,fsu,3
+missouri st.,missouri st.,12
+fort lewis co,fort lewis co,13
+kansas st.,kansas st.,10
+delaware valley pa,delaware valley pa,18
+nebraska-omaha,nebraska-omaha,14
+iowa st.,iowa st.,8
+bethune-cookman fl,bethune-cookman fl,18
+arkansas st.,arkansas st.,12
+penn st.,penn st.,8
+oregon st.,oregon st.,10
+missouri-rolla,missouri-rolla,14
+wisconsin-stout,wisconsin-stout,15
+ohio dominican,ohio dominican,14
+hanover in,hanover in,10
+wisconsin-eau claire,wisconsin-eau claire,20
+north greenville sc,north greenville sc,19
+sam houston st. tx,sam houston st. tx,18
+johns hopkins md,johns hopkins md,16
+minnesota-morris,minnesota-morris,16
+carnegie mellon pa,carnegie mellon pa,18
+edinboro pa,edinboro pa,11
+florida international,florida international,21
+franklin & marshall pa,franklin & marshall pa,22
+south carolina st.,south carolina st.,18
+missouri southern st.,missouri southern st.,21
+mercyhurst pa,mercyhurst pa,13
+memphis tn,memphis tn,10
+indiana st.,indiana st.,11
+willamette or,willamette or,13
+nebraska-kearney,nebraska-kearney,16
+minnesota st.-mankato,minnesota st.-mankato,21
+wisconsin-whitewater,wisconsin-whitewater,20
+virginia st.,virginia st.,12
+webber international fl,webber international fl,23
+christopher newport va,christopher newport va,22
+trinity international il,trinity international il,24
+northeastern oklahoma,northeastern oklahoma,21
+millikin il,millikin il,11
+western oregon,western oregon,14
+lock haven pa,lock haven pa,13
+texas a&m-commerce,texas a&m-commerce;,18
+minnesota-duluth,minnesota-duluth,16
+wartburg ia,wartburg ia,11
+hillsdale mi,hillsdale mi,12
+bowdoin me,bowdoin me,10
+clark atlanta ga,clark atlanta ga,16
+san diego assistant,san diego assistant,19
+stevenson md,stevenson md,12
+old dominion va,old dominion va,15

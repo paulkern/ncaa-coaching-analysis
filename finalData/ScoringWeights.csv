@@ -1,0 +1,16 @@
+hc,weight,1,pct,0.4,rawpct,0.25,offTD,0.125,totPenalties-,0.05,difTakeaways,0.05,defTD-,0.125,,
+oc,weight,0.25,pct,0.25,rawpct,0.25,offTDpP,0.1,offPassYdAvg,0.1,offRushYdAvg,0.1,offRushYd,0.1,offPassYd,0.1
+dc,weight,0.25,pct,0.25,rawpct,0.25,defTDpP-,0.1,defPassYdAvg-,0.1,defRushYdAvg-,0.1,defRushYd-,0.1,defPassYd-,0.1
+ahc,weight,0.25,pct,0.4,rawpct,0.25,offTD,0.125,totPenalties-,0.05,difTakeaways,0.05,defTD-,0.125,,
+lb,weight,0.125,pct,0.25,rawpct,0.25,defTDpP-,0.1,defPassYdAvg-,0.1,defRushYdAvg-,0.1,defRushYd-,0.1,defPassYd-,0.1
+ol,weight,0.125,pct,0.25,rawpct,0.25,offTDpP,0.1,offPassYdAvg,0.1,offRushYdAvg,0.1,offRushYd,0.1,offPassYd,0.1
+dl,weight,0.125,pct,0.25,rawpct,0.25,defTDpP-,0.1,defPassYdAvg-,0.1,defRushYdAvg-,0.1,defRushYd-,0.1,defPassYd-,0.1
+db,weight,0.125,pct,0.25,rawpct,0.25,defTDpP-,0.1,defPassYdAvg-,0.1,defRushYdAvg-,0.1,defRushYd-,0.1,defPassYd-,0.1
+rb,weight,0.125,pct,0.25,rawpct,0.25,offTDpP,0.1,offPassYdAvg,0.1,offRushYdAvg,0.1,offRushYd,0.1,offPassYd,0.1
+qb,weight,0.125,pct,0.25,rawpct,0.25,offTDpP,0.1,offPassYdAvg,0.1,offRushYdAvg,0.1,offRushYd,0.1,offPassYd,0.1
+te,weight,0.125,pct,0.25,rawpct,0.25,offTDpP,0.1,offPassYdAvg,0.1,offRushYdAvg,0.1,offRushYd,0.1,offPassYd,0.1
+wr,weight,0.125,pct,0.25,rawpct,0.25,offTDpP,0.1,offPassYdAvg,0.1,offRushYdAvg,0.1,offRushYd,0.1,offPassYd,0.1
+st,weight,0.05,pct,0.5,rawpct,0.5,,,,,,,,,,
+cb,weight,0.125,pct,0.25,rawpct,0.25,defTDpP-,0.1,defPassYdAvg-,0.1,defRushYdAvg-,0.1,defRushYd-,0.1,defPassYd-,0.1
+fa,weight,0.05,pct,0.5,rawpct,0.5,,,,,,,,,,
+ga,weight,0.05,pct,0.5,rawpct,0.5,,,,,,,,,,

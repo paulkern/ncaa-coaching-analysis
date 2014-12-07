@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+	<style>
+	body {
+	  overflow:hidden;
+	   margin:0;
+	}
+
+	text {
+	  font-family: sans-serif;
+	  pointer-events: none;
+	}
+
+	</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script>
+//Height and Width of the browser window (can use innerframes to have page of multiple views)
+var w = window.innerWidth;
+var h = window.innerHeight;
+
+//variables used to keep track of the focus node and the highlighted node
+//not really sure what the focus node does that the highlighted node doesn't TODO?
+var focus_node = null, highlight_node = null;
+
+//formatting Booleans; they are set here and not changed
+var text_center = false;
+var outline = false;
+
+//Domain for coaching scores
+var min_score = 0;
+var max_score = 1;
+
+//a linear color scale; domain = [min, mid, max]
+var color = d3.scale.linear()
+  .domain([min_score, (min_score+max_score)/2, max_score])
+  .range(["red", "gray", "green"]);
+
+var highlight_color = "blue";
+//when a node is highlighted, all elements and nodes not connected to the highlighted node will have this opacity
+//var highlight_trans = 0.1;
+  
+//a scale for the size of each node. Why is it a power scale if the exponent is 1? Makes it linear, right?
+var size = d3.scale.pow().exponent(1)
+  .domain([1,100])
+  .range([8,24]);
+	
+//initializes the force directed graph
+//TODO look up more on link distance and charge
+var force = d3.layout.force()
+  .linkDistance(70)
+  .charge(-800)
+  .size([w,h]);
+
+var default_node_color = "#ccc"; //grey
+//var default_node_color = "rgb(3,190,100)";
+var default_link_color = "#888"; //grey
+var nominal_base_node_size = 8;
+var nominal_text_size = 10;
+var max_text_size = 24;
+var nominal_stroke = 1.5;
+var max_stroke = 4.5;
+var max_base_node_size = 36;
+var min_zoom = 0.1;
+var max_zoom = 7;
+//references the svg canvas
+var svg = d3.select("body").append("svg");
+//refrences the zoom event? not quite sure
+var zoom = d3.behavior.zoom().scaleExtent([min_zoom, max_zoom])
+//the entirety of the graph is placed in g for easier transforming and manipulation
+var g = svg.append("g");
+svg.style("cursor","move");
+
+// var loading = svg.append("text")
+//     .attr("x", w / 2)
+//     .attr("y", h / 2)
+//     .attr("dy", ".35em")
+//     .style("text-anchor", "middle")
+//     .text("Simulating. One moment please…");
+
+d3.json("coachLinks.json", function(error, graph) {
+
+	//creates a dictionary where each entry is a source/target pair, and the value is true
+	//denoted that an edge exists between the two
+	var linkedByIndex = {};
+	graph.links.forEach(function(d) {
+		var temp = {}
+		temp["num_seasons"] = d.num_seasons;
+		temp["school"] = d.school;
+		temp["source"] = d.source;
+		temp["target"] = d.target;
+		temp["link"] = true;
+		linkedByIndex[d.source + "," + d.target] = temp;
+	});
+
+	//checks is there is an edge between a and b
+	function isConnected(a, b) {
+        return a.index + "," + b.index in linkedByIndex || b.index + "," + a.index in linkedByIndex || a.index == b.index;
+    }
+
+	//checks if a has any edges and returns true or false
+	function hasConnections(a) {
+		for (var property in linkedByIndex) {
+				s = property.split(",");
+				if ((s[0] == a.index || s[1] == a.index) && linkedByIndex[property].link) {return true;}
+		}
+		return false;
+	}
+
+	function getConnectionInfo(a) {
+		if (hasConnections(a)) {
+			var tempList = [];
+			for (var property in linkedByIndex) {
+					s = property.split(",");
+					if ((s[0] == a.index || s[1] == a.index) && linkedByIndex[property].link) {
+						tempList.push(linkedByIndex[property]);
+					}
+			}
+			return tempList;
+		} else {
+			console.log("No connections found");
+		}
+	}
+		
+  	force
+    	.nodes(graph.nodes)
+    	.links(graph.links)
+    	.start()
+	    	.on("end", function(){
+	    // 	for (var i = 1000 * 100; i > 0; --i) force.tick();
+	  		// force.stop();
+
+		//all edges between nodes
+		var link = g.selectAll(".link")
+		    .data(graph.links)
+		    .enter().append("line")
+		    .attr("class", "link")
+			.style("stroke-width",nominal_stroke)
+			.style("stroke", default_link_color); //function(d) { 
+			// 	if (isNumber(d.score) && d.score >= 0) return color(d.score);
+			// 	else return default_link_color; 
+			// })
+
+		//all the node groups (svg elements are created later)
+		var node = g.selectAll(".node")
+		    .data(graph.nodes)
+		    .enter().append("g")
+		    .attr("class", "node")
+			//.call(force.drag)
+
+		//an event listener that listens for a double click on the canvas to zoom in
+		node.on("dblclick.zoom", function(d) {
+			d3.event.stopPropagation();
+			var dcx = (window.innerWidth/2-d.x*zoom.scale());
+			var dcy = (window.innerHeight/2-d.y*zoom.scale());
+			zoom.translate([dcx,dcy]);
+			g.attr("transform", "translate("+ dcx + "," + dcy  + ")scale(" + zoom.scale() + ")");	 
+		});
+			
+		//Determines which part of the svg elements will be colored
+		//If outline is true, the object will be "outlined"
+		var tocolor = "fill";
+		var towhite = "stroke";
+		if (outline) {
+			tocolor = "stroke"
+			towhite = "fill"
+		}
+			
+	  	//all the svg symbols
+	  	var circle = node.append("path")
+	  		.attr("d", d3.svg.symbol()
+		        .size(function(d) { return Math.PI*Math.pow(size(d.total_wins) || nominal_base_node_size, 2); }) //PI*d.size^2 or nominal_base_node_size^2
+		        .type("circle")//function(d) { return d.type; })) //type of the symbol; circle, triangle, square, etc.
+		  // 		.style(tocolor, function(d) {
+				// 	//if (isNumber(d.score) && d.score >= 0) return color(d.score); //colors the symbol based on it's score
+				// 	if (d.win_percentage > 0) { return color(d.win_percentage); }
+				// 	else { return default_node_color; } //or colors it grey
+				// })
+				// //.attr("r", function(d) { return size(d.size)||nominal_base_node_size; })
+				// .style("stroke-width", nominal_stroke)
+				// .style(towhite, "white")
+			); //if not outline, will make a white border around the symbol, otherwise the fill will be white
+		  	
+						
+		//the labels for each of the symbols
+		var text = g.selectAll(".text")
+		    .data(graph.nodes)
+		    .enter().append("text")
+		    .attr("dy", ".35em")
+			.style("font-size", nominal_text_size + "px")
+			if (text_center)
+				text.text(function(d) { return d.name; })
+				.style("text-anchor", "middle");
+			else 
+				text.attr("dx", function(d) {return (size(d.total_wins) || nominal_base_node_size);})
+		    	.text(function(d) { return '\u2002' + d.name; }); //Here, \u2002 represents a unicode EN SPACE - essentially just a space
+
+		//loading.remove();
+
+		//node-mouse related event listeners
+		node.on("mouseover", function(d) { //highlights the node being moused-over
+				set_highlight(d);
+			})
+		 //  	.on("mousedown", function(d) { //on mousedown,
+		 //  		d3.event.stopPropagation(); //d3 keeps the svg canvas from registering a mousedown
+			//   	focus_node = d; //sets the focus_node
+			// 	if (highlight_node === null) set_highlight(d) //sets the highlight node as well, in case something weird happens and mouseover is not registered
+			// 	if (highlight_trans < 1) { //on mousedown, sets all nodes not connected to d to be transparent
+			//     	circle.style("opacity", function(o) {
+			//             return isConnected(d, o) ? 1 : highlight_trans;
+			//         });
+			// 		text.style("opacity", function(o) { //same for the text
+			//             return isConnected(d, o) ? 1 : highlight_trans;
+			//         });
+		 //            link.style("opacity", function(o) { //same for the links
+		 //                return o.source.index == d.index || o.target.index == d.index ? 1 : highlight_trans;
+		 //            });		
+			// 	}
+			// }) highlight_trans
+			.on("mouseout", function(d) { //removes highlighting
+				exit_highlight();
+			});
+
+		//for any mouseup event in the window
+		d3.select(window).on("mouseup", function() {
+			if (focus_node !== null) { //set the focus_node to null
+				focus_node = null;
+				// if (highlight_trans < 1) { //reset the opacity for all the elements
+				// 	circle.style("opacity", 1);
+				// 	text.style("opacity", 1);
+				// 	link.style("opacity", 1);
+				// } highlight_trans
+			}
+			if (highlight_node === null) exit_highlight(); //not sure TODO
+		});
+
+		function exit_highlight() {
+			highlight_node = null;
+			if (focus_node === null) {
+				svg.style("cursor", "move"); //sets the cursor to be "move", kinda like a cross with arrows
+				if (highlight_color != "white") { //resets what was done by highlighting certain nodes and edges
+				  	circle.style(towhite, "white");
+					text.style("font-weight", "normal");
+					link.style("stroke", function(o) {
+						return (isNumber(o.score) && o.score >= 0) ? color(o.score) : default_link_color;
+					});
+		 		}	
+			}
+		}
+
+		function set_highlight(d) {
+			console.log(d.name);
+			console.log(d.total_wins);
+			console.log(d.win_percentage); //Temp printing TODO
+			var info = getConnectionInfo(d);
+			for (var i = 0; i < info.length; i++) {
+				console.log("Connection:");
+				if (d.name === graph.nodes[info[i].source].name) {
+					console.log(graph.nodes[info[i].target].name);
+				} else console.log(graph.nodes[info[i].source].name);
+				console.log(info[i].num_seasons);
+				console.log(info[i].school);
+			};
+			svg.style("cursor","pointer"); //sets the cursor to be "pointer", mickey mouse glove
+			if (focus_node !== null) { d = focus_node; }
+			highlight_node = d;
+			if (highlight_color != "white") {
+				circle.style(towhite, function(o) { //sets the stroke or fill (whichever is white) nodes connected to the highlighted node to the highlight color
+		            return isConnected(d, o) ? highlight_color : "white";
+		        });
+				text.style("font-weight", function(o) { //bolds all labels for nodes connected to the highlighted node
+		            return isConnected(d, o) ? "bold" : "normal";
+		        });
+		        link.style("stroke", function(o) { //links between the focused node and all connected nodes are colored according to the highlight color
+		        	//otherwise, colored by default
+				    return o.source.index == d.index || o.target.index == d.index ? highlight_color : ((isNumber(o.score) && o.score >= 0) ? color(o.score) : default_link_color);
+		        });
+			}
+		}
+		 	
+			
+		zoom.on("zoom", function() {
+			var stroke = nominal_stroke; //changes the stroke of each link and circle based on the zoom factor
+		    if (nominal_stroke * zoom.scale() > max_stroke) { stroke = max_stroke/zoom.scale(); }
+		    link.style("stroke-width",stroke);
+		    circle.style("stroke-width",stroke);
+			   
+			var base_radius = nominal_base_node_size; //changes the size of each symbol based on the zoom factor
+		    if (nominal_base_node_size * zoom.scale() > max_base_node_size) { base_radius = max_base_node_size/zoom.scale(); }
+		    circle.attr("d", d3.svg.symbol()
+		        .size(function(d) { return Math.PI*Math.pow(size(d.total_wins) * base_radius/nominal_base_node_size || base_radius,2); })
+		        .type("circle")
+		    );//function(d) { return d.type; })) //Do we need this? TODO
+				
+			//circle.attr("r", function(d) { return (size(d.size)*base_radius/nominal_base_node_size||base_radius); })
+			if (!text_center) text.attr("dx", function(d) { return (size(d.total_wins) * base_radius/nominal_base_node_size || base_radius); }); //update labal locations
+			
+			var text_size = nominal_text_size; //update label sizes
+		    if (nominal_text_size*zoom.scale() > max_text_size) text_size = max_text_size/zoom.scale();
+		    text.style("font-size",text_size + "px");
+
+		    //translates all items according to the zoom event
+			g.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+		});
+			 
+		svg.call(zoom);	  
+			
+		resize();
+		//window.focus();
+		//when the window is resized, resize() is called
+		d3.select(window).on("resize", resize);
+		//moves nodes accordingly
+		force.on("tick", function() {
+		    node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+		    text.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+		  
+		    link.attr("x1", function(d) { return d.source.x; })
+		      .attr("y1", function(d) { return d.source.y; })
+		      .attr("x2", function(d) { return d.target.x; })
+		      .attr("y2", function(d) { return d.target.y; });
+				
+		    node.attr("cx", function(d) { return d.x; })
+		      .attr("cy", function(d) { return d.y; });
+		});
+
+		//resizes force graph according to new window size
+	  	function resize() {
+			var width = window.innerWidth, height = window.innerHeight;
+			svg.attr("width", width).attr("height", height);
+		    
+			force.size([force.size()[0] + (width - w)/zoom.scale(), force.size()[1] + (height - h)/zoom.scale()]).resume();
+		    w = width;
+			h = height;
+		}	
+	});
+});
+
+function isNumber(n) {
+  return !isNaN(parseFloat(n)) && isFinite(n);
+}	
+
+</script>
+</body>
+</html>

@@ -1,0 +1,79 @@
+//Redo
+{
+  "links": [
+    {"source": int, "target": int, "num_seasons" : int, "school" : "U of Name"},
+    {"source": int, "target": int, "num_seasons" : int, "school" : "U of Name"},
+    ...,
+    {"source": int, "target": int, "num_seasons" : int, "school" : "U of Name"},//where each source/target number is the index of the node
+    {"source": int, "target": int, "num_seasons" : int, "school" : "U of Name"},//would be nice if this matched a coach's id
+    {"source": int, "target": int, "num_seasons" : int, "school" : "U of Name"}],
+  "nodes": [
+    {
+        "name": "Coache's Name, whatever format. Could have firstname and lastname or just last name first initial",
+        "total_wins": int,
+        "win_percentage": float
+    },
+    {},
+    ...,
+    {}
+    ],
+  "directed": false,
+  "multigraph": false
+}
+
+//Version1
+[{
+  "name" : "Coache's Name, whatever format. Could have firstname and lastname or just last name first initial",
+  "total_wins" : int,
+  "win_percentage" : float,
+  "schools" : [
+    {
+        "school" : "school name",
+        "coworkers" : [
+            {
+                "name" : "coworker's name",
+                "num_seasons" : int
+                //we can add a field to determine if they were a subordinate or superior later if need be.
+            },
+            {},
+            {},
+            ...,
+            {}
+        ]
+    }
+  ]
+},
+{},
+{},
+....,
+{}]
+
+//Version2
+[{
+  "name" : "Coache's Name, whatever format. Could have firstname and lastname or just last name first initial",
+  "total_wins" : int,
+  "win_percentage" : float,
+  "coworkers" : [
+    {
+        "name" : "coworker's name",
+        "num_seasons" : int,
+        "school" : "U of Name"
+    },
+    {},
+    {},
+    ...,
+    {}
+  ]
+},
+{},
+{},
+....,
+{}]
+
+
+// NOTES
+// Any sort of emphasis/deemphasis on superiors/subordinates?
+// Good ideas for coloring/sizing?
+// coaching IDs
+
+// tutelage.csv

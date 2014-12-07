@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>autocomplete demo</title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+</head>
+<body>
+ 
+<label for="searchCoach">Search coaches: </label>
+<input id="searchCoach">
+ 
+<script>
+var names = [];
+var matching = {}
+d3.json("data.json", function(error, graph) {	
+  graph.nodes.forEach(function(d) {
+  names.push(d.name)
+  matching[d.name] = d.coach_id})});
+$( "#searchCoach" ).autocomplete({
+  source: names
+});
+$( "#searchCoach" ).on( "autocompleteselect", function( event, ui ) {console.log(matching[$("#searchCoach").val()])} );
+</script>
+ 
+</body>
+</html>
