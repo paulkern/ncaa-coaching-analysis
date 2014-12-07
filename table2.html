@@ -15,9 +15,11 @@
     <script type="text/javascript">
     
     function compare(a,b) {
-	  if (a.PageRank< b.PageRank)
+	  var ap = parseFloat(a.PageRank)
+	  var bp = parseFloat(b.PageRank)
+	  if (ap<bp)
 		 return 1;
-	  if (a.PageRank> b.PageRank)
+	  if (ap>bp)
 		return -1;
 	  return 0;
 	}
