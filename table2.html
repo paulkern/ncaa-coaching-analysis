@@ -15,10 +15,10 @@
     <script type="text/javascript">
     
     function compare(a,b) {
-	  if (a.coachingScore < b.coachingScore)
-		 return -1;
-	  if (a.coachingScore > b.coachingScore)
-		return 1;
+	  if (a.PageRank< b.PageRank)
+		 return 1;
+	  if (a.PageRank> b.PageRank)
+		return -1;
 	  return 0;
 	}
 
