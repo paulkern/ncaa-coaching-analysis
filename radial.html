@@ -105,21 +105,27 @@ $( "#searchCoach" ).on( "autocompleteselect", function( event, ui ) {
 		coachNumber = matching[$("#searchCoach").val()];
 		root = allData[coachNumber];
 		console.log(root);
-		update(root);
+		reRoot(root);
 	});
 
 
 
+function reRoot(root) { 
+  root.x0 = height / 2;
+  root.y0 = 0;
+
 function collapse(d) {
-	if (d.children) {
+    if (d.children) {
       d._children = d.children;
       d._children.forEach(collapse);
       d.children = null;
     }
-}
-//if (root.children) {
-//    root.children.forEach(collapse);
-//}
+  }
+  if (root.children) {
+    root.children.forEach(collapse);
+  }
+  update(root);
+};
 
 d3.select(self.frameElement).style('height', '2000px');
 
