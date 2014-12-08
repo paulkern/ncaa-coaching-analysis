@@ -232,6 +232,7 @@ def getWikiInfo(url):
 #also year and school can be same line of text or in different matching sub-tables
 
 def scrapeCoaches(csv):
+    """ need to start with csv of coach names """
     f = open(csv)
     output = open("scrapedOutput.csv", "w")
     errorFile = open("errors.txt","w")
@@ -263,5 +264,8 @@ def scrapeCoaches(csv):
 
 if __name__ == "__main__":
     import sys
-    scrapeCoaches(sys.argv[1])
+    if(len(sys.argv) < 2):
+        print("please provide csv file of coaching names as input")
+    else:
+        scrapeCoaches(sys.argv[1])
     #getURL(sys.argv[1])
